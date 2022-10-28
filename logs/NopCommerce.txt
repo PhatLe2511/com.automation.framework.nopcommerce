@@ -1,0 +1,20 @@
+[2022-10-24 22:41:45,595] Click to Register on the header
+[2022-10-24 22:41:47,421] Select gender in checkbox
+[2022-10-24 22:41:47,613] Input valid value into Firstname text box with: Stefan
+[2022-10-24 22:41:47,830] Input valid value into Lastname text box with: Blick
+[2022-10-24 22:41:47,974] Select Date of birthday
+[2022-10-24 22:41:48,120] Select Month of birthday
+[2022-10-24 22:41:48,212] Select Year of birthday
+[2022-10-24 22:41:48,300] Input valid email to email text box with: bert.wiza@gmail.com
+[2022-10-24 22:41:48,392] Input valid value into password text box with: 4m6txooiohpk7n
+[2022-10-24 22:41:48,728] Input valid value into confirm password text box with: 4m6txooiohpk7n
+[2022-10-24 22:41:50,513] Click to Register button
+[2022-10-24 22:41:52,500] Click on Continue button to return to homepage
+[2022-10-24 22:41:55,739] Click to product to go to detailed page
+[2022-10-24 22:41:57,396] Get product title, SKU and price
+[2022-10-24 22:41:57,527] Click to Add to wishlist
+[2022-10-24 22:41:57,663] Verify Success message is displayed after adding to wishlist
+[2022-10-24 22:41:58,040] Click to Wishlist on the header
+[2022-10-24 22:41:58,920] Verify product is added to wishlist
+[2022-10-24 22:41:59,035] Click on Wishlist URL
+[2022-10-24 22:41:59,614] Verify user can wishlist from URL with: Wishlist of Stefan Blick

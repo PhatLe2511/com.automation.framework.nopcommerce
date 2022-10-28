@@ -1,0 +1,1 @@
+{"uuid":"f25fe1b7-8985-4f2f-b77e-207f2e1f7835","name":"RUN ON CHROME","children":["c75449e8-ec1b-451a-b06d-c11a226039a1"],"befores":[{"name":"BeforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665593070062,"stop":1665593086474}],"afters":[],"start":1665593069990,"stop":1665593089375}

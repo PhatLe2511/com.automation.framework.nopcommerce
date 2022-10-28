@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[2022-10-24 22:39:34,234] Click to Register on the header
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:35,912] Select gender in checkbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:36,098] Input valid value into Firstname text box with: Kara
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:36,320] Input valid value into Lastname text box with: Koelpin
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:36,471] Select Date of birthday
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:36,906] Select Month of birthday
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:37,162] Select Year of birthday
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:37,427] Input valid email to email text box with: cherelle.wolff@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:37,690] Input valid value into password text box with: rjo69677ckwc
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:38,854] Input valid value into confirm password text box with: rjo69677ckwc
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:38,958] Click to Register button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:40,566] Click on Continue button to return to homepage
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:43,671] Click to product to go to detailed page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:45,937] Get product title, SKU and price
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:46,067] Click to Add to wishlist
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:49,209] Verify Success message is displayed after adding to wishlist
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:49,296] Click to Wishlist on the header
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:50,443] Verify product is added to wishlist
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:50,556] Click on Wishlist URL
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-10-24 22:39:51,122] Verify user can wishlist from URL
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-24T15:39:27Z" name="NopCommerce" finished-at="2022-10-24T15:39:51Z" duration-ms="24153">
+    <groups>
+    </groups>
+    <test started-at="2022-10-24T15:39:27Z" name="RUN ON CHROME" finished-at="2022-10-24T15:39:51Z" duration-ms="24153">
+      <class name="com.nopcommerce.user.NopCommerce_Wishlist_Compare">
+        <test-method is-config="true" signature="BeforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.NopCommerce_Wishlist_Compare@56f71edb]" started-at="2022-10-24T15:39:27Z" name="BeforeClass" finished-at="2022-10-24T15:39:43Z" duration-ms="15741" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.nopcommerce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-10-24 22:39:34,234] Click to Register on the header
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:35,912] Select gender in checkbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:36,098] Input valid value into Firstname text box with: Kara
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:36,320] Input valid value into Lastname text box with: Koelpin
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:36,471] Select Date of birthday
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:36,906] Select Month of birthday
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:37,162] Select Year of birthday
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:37,427] Input valid email to email text box with: cherelle.wolff@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:37,690] Input valid value into password text box with: rjo69677ckwc
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:38,854] Input valid value into confirm password text box with: rjo69677ckwc
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:38,958] Click to Register button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:40,566] Click on Continue button to return to homepage
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="TC_01_Add_To_Wishlist(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.NopCommerce_Wishlist_Compare@56f71edb]" started-at="2022-10-24T15:39:43Z" name="TC_01_Add_To_Wishlist" finished-at="2022-10-24T15:39:51Z" duration-ms="8022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-10-24 22:39:43,671] Click to product to go to detailed page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:45,937] Get product title, SKU and price
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:46,067] Click to Add to wishlist
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:49,209] Verify Success message is displayed after adding to wishlist
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:49,296] Click to Wishlist on the header
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:50,443] Verify product is added to wishlist
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:50,556] Click on Wishlist URL
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-10-24 22:39:51,122] Verify user can wishlist from URL
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_Add_To_Wishlist -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.nopcommerce.user.NopCommerce_Wishlist_Compare@56f71edb]" started-at="2022-10-24T15:39:51Z" name="AfterClass" finished-at="2022-10-24T15:39:51Z" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- com.nopcommerce.user.NopCommerce_Wishlist_Compare -->
+    </test> <!-- RUN ON CHROME -->
+  </suite> <!-- NopCommerce -->
+</testng-results>
