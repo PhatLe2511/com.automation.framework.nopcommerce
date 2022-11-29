@@ -9,18 +9,35 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">NopCommerce</th></tr>
-<tr><td><a href="#t0">RUN ON CHROME</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">24,153</td><td></td><td></td></tr>
+<tr><td><a href="#t0">RUN ON CHROME</a></td><td class="num">2</td><td class="num">0</td><td class="num attn">1</td><td class="num">48,620</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">NopCommerce</th></tr></tbody><tbody id="t0"><tr><th colspan="4">RUN ON CHROME &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.nopcommerce.user.NopCommerce_Wishlist_Compare</td><td><a href="#m0">TC_01_Add_To_Wishlist</a></td><td rowspan="1">1666625983153</td><td rowspan="1">8022</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">NopCommerce</th></tr></tbody><tbody id="t0"><tr><th colspan="4">RUN ON CHROME &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.nopcommerce.user.NopCommerce_Wishlist_Compare</td><td><a href="#m0">TC_03_Remove_Product_In_Wishlist_Page</a></td><td rowspan="1">1669736080035</td><td rowspan="1">15103</td></tr><tr><th colspan="4">RUN ON CHROME &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">com.nopcommerce.user.NopCommerce_Wishlist_Compare</td><td><a href="#m1">TC_01_Add_To_Wishlist</a></td><td rowspan="1">1669736066989</td><td rowspan="1">10643</td></tr><tr class="passedeven"><td><a href="#m2">TC_02_Add_Product_To_Cart</a></td><td rowspan="1">1669736077763</td><td rowspan="1">2267</td></tr></tbody>
 </table>
-<h2>RUN ON CHROME</h2><h3 id="m0">com.nopcommerce.user.NopCommerce_Wishlist_Compare#TC_01_Add_To_Wishlist</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(java.lang.reflect.Method)</td></tr><tr><th>Messages</th></tr><tr><td><div class="messages">[2022-10-24 22:39:43,671] Click to product to go to detailed page
-<br><br/>[2022-10-24 22:39:45,937] Get product title, SKU and price
-<br><br/>[2022-10-24 22:39:46,067] Click to Add to wishlist
-<br><br/>[2022-10-24 22:39:49,209] Verify Success message is displayed after adding to wishlist
-<br><br/>[2022-10-24 22:39:49,296] Click to Wishlist on the header
-<br><br/>[2022-10-24 22:39:50,443] Verify product is added to wishlist
-<br><br/>[2022-10-24 22:39:50,556] Click on Wishlist URL
-<br><br/>[2022-10-24 22:39:51,122] Verify user can wishlist from URL
+<h2>RUN ON CHROME</h2><h3 id="m0">com.nopcommerce.user.NopCommerce_Wishlist_Compare#TC_03_Remove_Product_In_Wishlist_Page</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(java.lang.reflect.Method)</td></tr><tr><th>Messages</th></tr><tr><td><div class="messages">[2022-11-29 22:34:40,039] Open demo page
+<br><br/>[2022-11-29 22:34:41,133] Click to product to go to detailed page
+<br><br/>[2022-11-29 22:34:42,821] Click to Add to wishlist
+<br><br/>[2022-11-29 22:34:42,926] Click to Wishlist on the header
+<br><br/>[2022-11-29 22:34:43,861] Click to Check box of product
+<br><br/>[2022-11-29 22:34:43,929] Click to remove button
+<br><br/>[2022-11-29 22:34:45,025] Verify empty message is displayed
+<br><br/>[2022-11-29 22:34:45,070] Verify product is removed
+<br></div></td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [false] but found [true]
+	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(NopCommerce_Wishlist_Compare.java:192)
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.nopcommerce.user.NopCommerce_Wishlist_Compare#TC_01_Add_To_Wishlist</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(java.lang.reflect.Method)</td></tr><tr><th>Messages</th></tr><tr><td><div class="messages">[2022-11-29 22:34:27,527] Click to product to go to detailed page
+<br><br/>[2022-11-29 22:34:34,456] Get product title, SKU and price
+<br><br/>[2022-11-29 22:34:34,581] Click to Add to wishlist
+<br><br/>[2022-11-29 22:34:34,727] Verify Success message is displayed after adding to wishlist
+<br><br/>[2022-11-29 22:34:35,165] Click to Wishlist on the header
+<br><br/>[2022-11-29 22:34:36,869] Verify product is added to wishlist
+<br><br/>[2022-11-29 22:34:36,997] Click on Wishlist URL
+<br><br/>[2022-11-29 22:34:37,593] Verify user can wishlist from URL with: Wishlist of King Usha
+<br></div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.nopcommerce.user.NopCommerce_Wishlist_Compare#TC_02_Add_Product_To_Cart</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_02_Add_Product_To_Cart(java.lang.reflect.Method)</td></tr><tr><th>Messages</th></tr><tr><td><div class="messages">[2022-11-29 22:34:37,774] Open demo page
+<br><br/>[2022-11-29 22:34:38,223] Click to Wishlist on the header
+<br><br/>[2022-11-29 22:34:38,718] Click to Check box of product
+<br><br/>[2022-11-29 22:34:38,807] Click to Add to cart
+<br><br/>[2022-11-29 22:34:39,988] Verify products Wishlist is removed and shopping cart is added
 <br></div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

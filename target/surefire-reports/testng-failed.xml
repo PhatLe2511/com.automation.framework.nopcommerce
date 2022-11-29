@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NopCommerce]" verbose="0">
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="reportConfig.ExtentTestListener"/>
+  </listeners>
+  <test thread-count="5" name="RUN ON CHROME(failed)" verbose="0">
+    <parameter name="env" value="demo"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.nopcommerce.user.NopCommerce_Wishlist_Compare">
+        <methods>
+          <include name="AfterClass"/>
+          <include name="BeforeClass"/>
+          <include name="TC_03_Remove_Product_In_Wishlist_Page" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.NopCommerce_Wishlist_Compare -->
+    </classes>
+  </test> <!-- RUN ON CHROME(failed) -->
+</suite> <!-- Failed suite [NopCommerce] -->

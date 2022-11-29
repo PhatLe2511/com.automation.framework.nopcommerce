@@ -28,6 +28,10 @@ public class BasePage {
 	public void setImplicitTimeOut(WebDriver driver, int timeOut) {
 		driver.manage().timeouts().implicitlyWait(timeOut, TimeUnit.SECONDS);
 	}
+
+	public void openURL(WebDriver driver, String url){
+		driver.get(url);
+	}
 	
 	public By getLocatorBy(String locator) {
 		By by = null;

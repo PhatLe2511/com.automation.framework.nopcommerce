@@ -1,6 +1,5 @@
 package nopCommerce.user.PageObject;
 
-import nopCommerce.user.PageUIs.HomePageUI;
 import org.openqa.selenium.WebDriver;
 
 
@@ -53,5 +52,15 @@ public class DashboardPageObject extends SideBarPageObject{
 		waitForElementClickable(driver, DashboardPageUI.PRODUCT_NAME, productName);
 		clickToElement(driver, DashboardPageUI.PRODUCT_NAME, productName);
 		return PageGeneratorManager.getDetailedProductPageObject(driver);
+	}
+
+	public WishlistPageObject clickToWishlistOnHeader() {
+		waitForElementClickable(driver, DashboardPageUI.WISHLIST_HYPERLINK);
+		clickToElement(driver, DashboardPageUI.WISHLIST_HYPERLINK);
+		return PageGeneratorManager.getWishlistPageObject(driver);
+	}
+
+	public void openDemoUrl(String url) {
+			openURL(driver, url);
 	}
 }

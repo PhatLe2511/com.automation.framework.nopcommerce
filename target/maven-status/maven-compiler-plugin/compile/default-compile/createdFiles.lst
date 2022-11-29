@@ -1,6 +1,8 @@
 nopCommerce/user/PageObject/HomePageObject.class
 nopCommerce/user/PageObject/SearchPageObject.class
 nopCommerce/user/PageObject/LoginPageObject.class
+nopCommerce/user/PageObject/ShoppingCartPageObject.class
+nopCommerce/user/PageUIs/ShoppingCartPageUI.class
 commons/VerificationFailures.class
 nopCommerce/user/PageObject/SideBarPageObject.class
 commons/GlobalConstants.class
@@ -29,6 +31,7 @@ nopCommerce/user/PageUIs/ChangePasswordPageUI.class
 reportConfig/ExtentManager.class
 nopCommerce/user/PageUIs/DashboardPageUI.class
 commons/BrowserList.class
+utilities/Environment.class
 nopCommerce/user/PageObject/WishlistPageObject.class
 reportConfig/ExtentTestListener.class
 commons/BaseTest$1.class

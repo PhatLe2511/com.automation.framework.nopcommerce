@@ -8,4 +8,6 @@ public class DashboardPageUI {
 	public static final String NOTEBOOK_BUTTON ="xpath=//div[@class='header-menu']/ul[@class='top-menu notmobile']//a[text()='Notebooks ']";
 
 	public static final String PRODUCT_NAME="xpath=//h2[@class='product-title']/a[text()='%s']";
+
+	public static final String WISHLIST_HYPERLINK = "css=div.header-links a.ico-wishlist";
 }

@@ -27,7 +27,6 @@
 			<param name="ConversionPattern" value="[%d] %m%n" />
 		</layout>
 	</appender>
-
 	<appender name="testng" class="commons.TestNGAppender">
 		<param name="Threshold" value="INFO" />
 		<layout class="org.apache.log4j.PatternLayout">
