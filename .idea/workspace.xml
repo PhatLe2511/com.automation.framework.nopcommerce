@@ -5,129 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3306ee92-5c6b-49dd-b0ba-2cbccf2f57c8" name="Changes" comment="Commit nopcommerce 29/Nov/2022">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aeonbits_owner_owner_1_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/014dec29-9f12-4a4b-af8b-030f70fd1e21-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0470049b-f824-472e-83f8-f51a57111025-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/081cdab4-39fb-4f2d-9602-30c7a221c499-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0a2c13e9-c2e8-49e1-893b-78277d435ef1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0e1718e1-7374-43a5-a8ba-cb7c210c67b8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/12dd9844-6968-4d41-914a-8e68acfbcfad-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/13e275f7-85e5-4af7-a844-3dd7e654fe77-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/14027e4b-cccd-4b88-9a6b-6209ad8e0bdc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/17bd1af4-a29c-4a88-a3d9-71cf86cb24b8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1a523165-7086-48e3-85e4-ec4a7e7a5ed5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1e03301a-75fb-4c12-8ffd-5dae3bd3b8b2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1fff55af-d3af-4ffb-a9d2-c655126fd14f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/22b172a6-1fec-4fcd-a667-2ec1703b5160-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/249a1527-1014-4ddd-8b06-39aaaa61504b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/265c369b-e3d5-486b-b94f-f4645cc9a663-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2980384b-32f4-4df0-a917-a2f1fb5a4e81-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/29cf0d09-0a4c-411b-91c4-df427ecc5198-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2ddc9776-525e-45c9-a3f9-e1f78a1be002-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/304fd949-7b0c-4eb0-8c91-85253a887243-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/326995aa-b0f0-47c8-9fae-c54fcafb694c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/364f52eb-1de1-4061-a956-55a687f73d7f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/36b59648-e63a-48e4-878d-dc08028a85cc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3c1d2fff-f50a-4644-a604-b9728331895f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/40c85823-9c4e-472b-8a82-63da3d4108eb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/458affb4-caca-471e-8564-ce335129acf4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/46e6fda3-f3a2-43da-ad81-a710cc4bc9c3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/54ee6b88-4d4f-428e-b486-e5fc142cd0c9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/56729aab-867d-4dd6-8b29-ad5a49d07ded-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5b4e626e-dd92-4c59-9400-20bc31fb1e4c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5c5198ef-56bf-4ab0-a526-c3af5e987b0f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5d847c7b-5795-4903-96cb-6e7f7cdb698f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5dd00d0c-ed35-4df0-889f-e92543c3c9b1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/615951f1-2e37-4d03-8296-4fa274596924-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/627ec0d7-8b64-48d5-ae1e-4e5ff1f8b5e5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/63ae289f-65e4-4a70-95c4-290d19f2438f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/65b2d4b4-7cdf-4b2c-bacd-e765aad8b962-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/74b31853-9c99-4ca4-b959-14297eb9f60d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/74fcf9a4-c03b-4317-86d3-b8b7d1e93bd7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/79517f79-1491-443d-a43a-9ab76df85da9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7ba1700c-92c1-476b-a87a-58320bbf9ad8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7f2b0a97-58f8-4edc-a1f7-7cf830177b55-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7f3970e6-70b8-4047-87cc-7eb888bb38e3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/802b002c-b519-411f-b4a1-fc37d800ed74-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/80c93529-fecb-48d8-8580-6bfac71f16d5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8ad7ee25-5590-4190-92ab-e7639c990ab0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8dcee05c-e965-4ece-8a57-9ebedc5d3ea2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8f9745a8-73b6-4d03-8284-3d9ebc515349-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/91a942a2-849e-41ea-b60a-d424b1f52a0f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9217b498-5540-4e1f-9973-674430273cfd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/98efef61-4833-4bd4-aa8b-b69e763a5c01-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9905d6b6-0205-4db6-9908-2b570e5b8821-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a028b332-3cb9-4bf8-acc2-062cdab71293-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a2b1a19c-b66f-4965-8beb-9b350fb9418e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/af40573e-40c2-40ba-88d0-fbea65df7165-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b1af713f-43cd-4185-a8d4-a3c3f6075669-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b82e72e2-d204-4ed2-a18e-3c3802036f8e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bc44bdd9-1311-414d-9d61-f2e5303c047f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bcc62713-68e0-4c4a-b72a-c67856560f22-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bf6f373a-de09-49ba-8bec-5950c474acd4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c1d58851-5562-46e1-8337-e18dd7b49004-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c8a8ebe4-6476-4881-87d5-79f4f349ceb0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c9826c3f-63d2-43db-85b1-34bf4a1859c8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c9ac0984-1577-4642-b9a5-c4a5ab41322c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cd96fd70-2137-4267-9bb9-ee62af0b74b0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d41d1431-a0c5-4012-bac4-477ccb186781-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d55c5e02-8692-4f17-8c84-47fa5c36558e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d78ced6a-90e5-4eea-824f-855d412834d4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e1317362-ce5f-405f-b609-f7e888a447df-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e8a766ae-1722-4374-a076-acb392b7e9c0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ec402482-092d-4914-bf7a-853b6e87e833-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f03b12c4-c07d-4474-95dc-15906d561248-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f8eda278-96fe-43db-b428-12673c9cc924-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fb95cc14-1ec1-40b6-b076-6341c65bed76-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fd4ad03b-8e9d-40b5-ad9f-9462ff741ceb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environmentConfig/demo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/CompareListPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/ShoppingCartPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/CompareListPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/ShoppingCartPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Environment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/UserData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/ShoppingCartPageObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/ShoppingCartPageUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utilities/Environment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/UserData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/ChromeWebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/FirefoxWebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/RecentLyReviewedPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/RecentViewedPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/user/NopCommerce_Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com.automation.framework.nopcommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.automation.framework.nopcommerce.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extentV5/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/extentV5/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/NopCommerce.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/NopCommerce.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/NopCommerce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/NopCommerce.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/CompareListPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/CompareListPageObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/DashboardPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/DashboardPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/DetailedProductPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/DetailedProductPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/NotebookPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/NotebookPageObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/PageGeneratorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/PageGeneratorManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/WishlistPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageObject/WishlistPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/CompareListPageUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/CompareListPageUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/DashboardPageUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/DashboardPageUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/WishlistPageUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/WishlistPageUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/NotebookPageUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nopCommerce/user/PageUIs/NotebookPageUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/user/NopCommerce_Wishlist_Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/user/NopCommerce_Wishlist_Compare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/runNopcommerceTestcases.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/demo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/commons/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/BaseTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/BrowserList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/BrowserList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/GlobalConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/GlobalConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/MethodListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/MethodListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/TestNGAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/TestNGAppender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commons/VerificationFailures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/commons/VerificationFailures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/AddressPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/AddressPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/ChangePasswordPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/ChangePasswordPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/CustomerInfoPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/CustomerInfoPageObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/DashboardPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/DashboardPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/DetailedProductPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/DetailedProductPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/HomePageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/HomePageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/LoginPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/LoginPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/MyProdReviewsPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/MyProdReviewsPO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/NotebookPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/NotebookPageObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/PageGeneratorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/PageGeneratorManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/RegisterPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/RegisterPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/SearchPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/SearchPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/ShoppingCartPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/ShoppingCartPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/SideBarPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/SideBarPageObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/WishlistPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageObject/WishlistPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/AddressPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/AddressPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/BasePageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/BasePageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/ChangePasswordPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/ChangePasswordPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/CustomerInfoPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/CustomerInfoPageUI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/DashboardPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/DashboardPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/DetailedProductPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/DetailedProductPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/HomePageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/HomePageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/LoginPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/LoginPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/MyProdReviewsPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/MyProdReviewsPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/NotebookPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/NotebookPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/RegisterPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/RegisterPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/SearchPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/SearchPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/ShoppingCartPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/ShoppingCartPageUI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/WishlistPageUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nopCommerce/user/PageUIs/WishlistPageUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reportConfig/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reportConfig/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reportConfig/ExtentTestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reportConfig/ExtentTestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reportConfig/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reportConfig/ExtentTestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/DataHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/DataHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/Environment.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/RUN ON CHROME.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/RUN ON CHROME.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/RUN ON CHROME.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/RUN ON CHROME.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/NopCommerce/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
@@ -137,13 +87,18 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/methods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/testng.xml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/NopCommerce/toc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_MyAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_MyAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Search.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Wishlist_Compare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/NopCommerce_Wishlist_Compare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runNopcommerceTestcases.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/Nopcommerce_Sort_Display_Paging.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/user/Nopcommerce_Sort_Display_Paging.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/nopCommerce/common/Register_Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/nopCommerce/common/Register_Common.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +115,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -184,15 +142,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG./Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/src/test/resources/runNopcommerceTestcases.xml">
+  <component name="RunManager" selected="TestNG./Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/src/test/resources/demo.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,6 +179,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/src/test/resources/demo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.automation.framework.nopcommerce" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/demo.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/src/test/resources/runNopcommerceTestcases.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.automation.framework.nopcommerce" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runNopcommerceTestcases.xml" />
@@ -234,6 +201,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/src/test/resources/demo.xml" />
         <item itemvalue="TestNG./Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/src/test/resources/runNopcommerceTestcases.xml" />
         <item itemvalue="TestNG.NopCommerce_Search.TC_03_Search_With_Approx_Product_Name" />
       </list>
@@ -248,6 +216,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665567959270</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit nopcommerce 29/Nov/2022">
+      <created>1669736779942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669736779942</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit nopcommerce 29/Nov/2022">
+      <created>1669736785500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669736785500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +263,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/nopcommerce/user/NopCommerce_Wishlist_Compare.java</url>
-          <line>51</line>
+          <line>61</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
@@ -289,7 +272,7 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/nopcommerce/user/NopCommerce_Wishlist_Compare.java</url>
-          <line>130</line>
+          <line>140</line>
           <properties class="com.nopcommerce.user.NopCommerce_Wishlist_Compare" method="TC_02_Add_Product_To_Cart">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

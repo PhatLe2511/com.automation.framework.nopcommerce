@@ -15,6 +15,7 @@ import utilities.DataHelper;
 import utilities.Environment;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 public class NopCommerce_Wishlist_Compare extends BaseTest {
     WebDriver driver;
@@ -22,12 +23,21 @@ public class NopCommerce_Wishlist_Compare extends BaseTest {
     Environment environment;
     HomePageObject homePage;
     RegisterPageObject registerPage;
+    WishlistPageObject wishlistPage;
+    NotebookPageObject noteBookPage;
     DashboardPageObject dashboardPage;
 
+    RecentLyReviewedPO recentlyViewedPage;
+    CompareListPageObject compareListPage;
     ShoppingCartPageObject shoppingCartPage;
+
+
+
     DetailedProductPageObject detailedProductPage;
-    WishlistPageObject wishlistPage;
+
     String url, firstName, lastName, email, password, productName, productPrice, productSKU;
+    String firstProductImage, secondProductImage, firstProductName, secondProductName, firstProductPrice, secondProductPrice;
+    private String productName1, productName2, productName3, productName4, productName5;
 
     @Parameters({"Browser", "env"})
     @BeforeClass
@@ -179,7 +189,8 @@ public class NopCommerce_Wishlist_Compare extends BaseTest {
         log.info("Click to Check box of product");
         wishlistPage.checkToProductCheckbox("HTC One M8 Android L 5.0 Lollipop");
 
-        ExtentTestManager.getTest().log(Status.INFO, "Click to remove button");
+        ExtentTestManager.getTest().log(
+                Status.INFO, "Click to remove button");
         log.info("Click to remove button");
         wishlistPage.clickOnRemoveButton();
 
@@ -190,6 +201,124 @@ public class NopCommerce_Wishlist_Compare extends BaseTest {
         ExtentTestManager.getTest().log(Status.INFO, "Verify product is removed");
         log.info("Verify product is removed");
         Assert.assertTrue(wishlistPage.isProductUndisplayed());
+    }
+
+    @Test
+    private void TC_04_Add_Product_To_Compare(Method method){
+        ExtentTestManager.startTest(method.getName(), "Add Product to compare");
+
+        ExtentTestManager.getTest().log(Status.INFO, "Open demo page");
+        log.info("Open demo page");
+        dashboardPage = PageGeneratorManager.getDasboardPageObject(driver);
+        dashboardPage.openDemoUrl(url);
+
+        ExtentTestManager.getTest().log(Status.INFO, "Get product information");
+        log.info("Get product information");
+        //firstProductImage = dashboardPage.getProductImage("HTC One M8 Android L 5.0 Lollipop");
+        secondProductImage = dashboardPage.getProductImage("$25 Virtual Gift Card");
+        firstProductName = dashboardPage.getProductName("HTC One M8 Android L 5.0 Lollipop");
+        secondProductName = dashboardPage.getProductName("$25 Virtual Gift Card");
+        firstProductPrice = dashboardPage.getProductPrice("HTC One M8 Android L 5.0 Lollipop");
+        secondProductPrice = dashboardPage.getProductPrice("$25 Virtual Gift Card");
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on compare button at product");
+        log.info("Click on compare button at product");
+        dashboardPage.clickOnCompareButtonAtProduct("HTC One M8 Android L 5.0 Lollipop");
+        dashboardPage.clickOnCompareButtonAtProduct("$25 Virtual Gift Card");
+
+
+        ExtentTestManager.getTest().log(Status.INFO, "Verify message informed products are added to compare list");
+        log.info("Verify message informed products are added to compare list");
+        Assert.assertEquals(dashboardPage.getCompareMessage(), "The product has been added to your product comparison");
+
+        ExtentTestManager.getTest().log(Status.INFO, "Go to Compare list page by clicking on product comparison hyperlink");
+        log.info("Go to Compare list page by clicking on product comparison hyperlink");
+        compareListPage = dashboardPage.clickToProductComparison();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Verify product information is displayed");
+        log.info("Verify product information is displayed");
+        //Assert.assertEquals(compareListPage.getProductImage("HTC One M8 Android L 5.0 Lollipop"), firstProductImage);
+        Assert.assertEquals(compareListPage.getProductImage("$25 Virtual Gift Card"), secondProductImage);
+        Assert.assertEquals(compareListPage.getProductName("HTC One M8 Android L 5.0 Lollipop"), firstProductName);
+        Assert.assertEquals(compareListPage.getProductName("$25 Virtual Gift Card"), secondProductName);
+        Assert.assertEquals(compareListPage.getProductPrice("$245.00"), firstProductPrice);
+        Assert.assertEquals(compareListPage.getProductPrice("$25.00"), secondProductPrice);
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on clear list button");
+        log.info("Click on clear list button");
+        compareListPage.clickToClearListButton();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Verify message: " + "You have no items to compare");
+        log.info("Verify message: " + "You have no items to compare");
+        Assert.assertEquals(compareListPage.getCompareMessage(), "You have no items to compare.");
+
+        ExtentTestManager.getTest().log(Status.INFO, "Verify product image, name and price are removed");
+        log.info("Verify product image, name and price are removed");
+        //Assert.assertTrue(compareListPage.isProductImageUndisplayed("HTC One M8 Android L 5.0 Lollipop"));
+        Assert.assertTrue(compareListPage.isProductImageUndisplayed("$25 Virtual Gift Card"));
+        Assert.assertTrue(compareListPage.isProductNameUndisplayed("HTC One M8 Android L 5.0 Lollipop"));
+        Assert.assertTrue(compareListPage.isProductNameUndisplayed("$25 Virtual Gift Card"));
+        Assert.assertTrue(compareListPage.isProductPriceUndisplayed("$245.00"));
+        Assert.assertTrue(compareListPage.isProductPriceUndisplayed("$25.00"));
+    }
+
+    @Test
+    private void TC_05_Recently_Viewed_Products(Method method){
+        ExtentTestManager.startTest(method.getName(), "Add Product to compare");
+
+        ExtentTestManager.getTest().log(Status.INFO, "Open demo page");
+        log.info("Open demo page");
+        dashboardPage = PageGeneratorManager.getDasboardPageObject(driver);
+        dashboardPage.openDemoUrl(url);
+
+        ExtentTestManager.getTest().log(Status.INFO, "Hover to Computers");
+        log.info("Hover to Computers");
+        dashboardPage.hoverToComputer();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click to Notebook to navigate to the page");
+        log.info("Click to Notebook to navigate to the page");
+        noteBookPage = dashboardPage.clickToNoteBook();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on Product name 1");
+        log.info("Click on Product name 1");
+        detailedProductPage = noteBookPage.clickOnProductByName("HP Envy 6-1180ca 15.6-Inch Sleekbook");
+        productName1 = detailedProductPage.getProductName();
+        noteBookPage = detailedProductPage.backToNoteBookPage();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on Product name 2");
+        log.info("Click on Product name 2");
+        detailedProductPage = noteBookPage.clickOnProductByName("Apple MacBook Pro 13-inch");
+        productName2 = detailedProductPage.getProductName();
+        noteBookPage = detailedProductPage.backToNoteBookPage();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on Product name 3");
+        log.info("Click on Product name 3");
+        detailedProductPage = noteBookPage.clickOnProductByName("Asus N551JK-XO076H Laptop");
+        productName3 = detailedProductPage.getProductName();
+        noteBookPage = detailedProductPage.backToNoteBookPage();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on Product name 4");
+        log.info("Click on Product name 4");
+        detailedProductPage = noteBookPage.clickOnProductByName("Lenovo Thinkpad X1 Carbon Laptop");
+        productName4 = detailedProductPage.getProductName();
+        noteBookPage = detailedProductPage.backToNoteBookPage();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Click on Product name 5");
+        log.info("Click on Product name 5");
+        detailedProductPage = noteBookPage.clickOnProductByName("Samsung Series 9 NP900X4C Premium Ultrabook");
+        productName5 = detailedProductPage.getProductName();
+        noteBookPage = detailedProductPage.backToNoteBookPage();
+
+        String[] listProduct = {productName3, productName4, productName5};
+
+        ExtentTestManager.getTest().log(Status.INFO, "Go to Recent viewed page");
+        log.info("Go to Recent viewed page");
+        recentlyViewedPage = noteBookPage.clickOnRecentlyViewedHyperlink();
+
+        ExtentTestManager.getTest().log(Status.INFO, "Verify only 3 recently viewed products are displayed");
+        log.info("Verify only 3 recently viewed products are displayed");
+        Assert.assertTrue(recentlyViewedPage.isLast3ProductsDisplayed(listProduct));
+
     }
 
     @AfterClass

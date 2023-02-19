@@ -6,12 +6,13 @@ import java.util.Date;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+import factoryBrowser.ChromeWebDriverManager;
+import factoryBrowser.FirefoxWebDriverManager;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
 	
@@ -64,13 +65,10 @@ public class BaseTest {
 		BrowserList browserList = BrowserList.valueOf(browserName.toUpperCase());
 		switch (browserList) {
 		case CHROME:
-			driver = WebDriverManager.chromedriver().create();
+			driver = new ChromeWebDriverManager().getBrowserDriver();
 			break;
 		case FIREFOX:
-			driver = WebDriverManager.firefoxdriver().create();
-			break;
-		case SAFARI:
-			driver = WebDriverManager.safaridriver().create();
+			driver = new FirefoxWebDriverManager().getBrowserDriver();
 			break;
 		default:
 			throw new IllegalArgumentException("Browser name is invalid");

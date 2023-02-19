@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="51.993" tests="3" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="132.335" tests="5" errors="0" skipped="0" failures="1">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="VN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.14.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/surefire/surefirebooter5886772467089148662.jar /Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/surefire 2022-11-29T22-34-02_766-jvmRun1 surefire1332481712508955276tmp surefire_010604663615379907250tmp"/>
+    <property name="sun.java.command" value="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/surefire/surefirebooter15594901103970667419.jar /Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/surefire 2023-02-07T21-23-30_747-jvmRun1 surefire2946859747944748548tmp surefire_08175205455915130030tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/test-classes:/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/classes:/Users/berlin/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/berlin/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/berlin/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/berlin/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/berlin/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/berlin/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/berlin/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/berlin/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/berlin/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/berlin/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/berlin/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/berlin/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/berlin/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/berlin/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/berlin/.m2/repository/io/github/bonigarcia/webdrivermanager/5.0.2/webdrivermanager-5.0.2.jar:/Users/berlin/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar:/Users/berlin/.m2/repository/org/jsoup/jsoup/1.14.2/jsoup-1.14.2.jar:/Users/berlin/.m2/repository/com/github/docker-java/docker-java/3.2.11/docker-java-3.2.11.jar:/Users/berlin/.m2/repository/com/github/docker-java/docker-java-core/3.2.11/docker-java-core-3.2.11.jar:/Users/berlin/.m2/repository/com/github/docker-java/docker-java-api/3.2.11/docker-java-api-3.2.11.jar:/Users/berlin/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/berlin/.m2/repository/org/apache/commons/commons-compress/1.20/commons-compress-1.20.jar:/Users/berlin/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/berlin/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/berlin/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/berlin/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.2.11/docker-java-transport-httpclient5-3.2.11.jar:/Users/berlin/.m2/repository/com/github/docker-java/docker-java-transport/3.2.11/docker-java-transport-3.2.11.jar:/Users/berlin/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.0.3/httpclient5-5.0.3.jar:/Users/berlin/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.0.2/httpcore5-5.0.2.jar:/Users/berlin/.m2/repository/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar:/Users/berlin/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/berlin/.m2/repository/org/uncommons/reportng/1.1.4/reportng-1.1.4.jar:/Users/berlin/.m2/repository/velocity/velocity/1.4/velocity-1.4.jar:/Users/berlin/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar:/Users/berlin/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar:/Users/berlin/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar:/Users/berlin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar:/Users/berlin/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/berlin/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/berlin/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/berlin/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/berlin/.m2/repository/joda-time/joda-time/2.0/joda-time-2.0.jar:/Users/berlin/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar:/Users/berlin/.m2/repository/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.jar:/Users/berlin/.m2/repository/velocity/velocity-dep/1.4/velocity-dep-1.4.jar:/Users/berlin/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0.jar:/Users/berlin/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/berlin/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/berlin/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/berlin/.m2/repository/com/github/javafaker/javafaker/1.0.1/javafaker-1.0.1.jar:/Users/berlin/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/berlin/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/berlin/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/berlin/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/berlin/.m2/repository/io/qameta/allure/allure-testng/2.18.1/allure-testng-2.18.1.jar:/Users/berlin/.m2/repository/io/qameta/allure/allure-java-commons/2.18.1/allure-java-commons-2.18.1.jar:/Users/berlin/.m2/repository/io/qameta/allure/allure-model/2.18.1/allure-model-2.18.1.jar:/Users/berlin/.m2/repository/io/qameta/allure/allure-test-filter/2.18.1/allure-test-filter-2.18.1.jar:/Users/berlin/.m2/repository/org/aspectj/aspectjweaver/1.9.8/aspectjweaver-1.9.8.jar:/Users/berlin/.m2/repository/org/aeonbits/owner/owner/1.0.12/owner-1.0.12.jar:/Users/berlin/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/berlin/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/berlin/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/berlin/.m2/repository/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar:/Users/berlin/.m2/repository/org/mockito/mockito-core/4.8.0/mockito-core-4.8.0.jar:/Users/berlin/.m2/repository/net/bytebuddy/byte-buddy-agent/1.12.14/byte-buddy-agent-1.12.14.jar:/Users/berlin/.m2/repository/org/objenesis/objenesis/3.2/objenesis-3.2.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/surefire/surefirebooter5886772467089148662.jar"/>
+    <property name="surefire.real.class.path" value="/Volumes/Automation/4. Maven Hybrid Framework/Maven-Hybrid-Framework-Nopcommerce/target/surefire/surefirebooter15594901103970667419.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.14+8-LTS-263"/>
@@ -62,21 +62,45 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="TC_01_Add_To_Wishlist" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="10.667"/>
-  <testcase name="TC_02_Add_Product_To_Cart" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="2.259"/>
-  <testcase name="TC_03_Remove_Product_In_Wishlist_Page" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="15.124">
-    <failure message="expected [false] but found [true]" type="java.lang.AssertionError">java.lang.AssertionError: expected [false] but found [true]
-	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(NopCommerce_Wishlist_Compare.java:192)
+  <testcase name="TC_01_Add_To_Wishlist" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="8.699">
+    <failure message="expected [Wishlist of Teodoro Cherrie] but found [Wishlist of]" type="java.lang.AssertionError">java.lang.AssertionError: expected [Wishlist of Teodoro Cherrie] but found [Wishlist of]
+	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(NopCommerce_Wishlist_Compare.java:137)
 </failure>
-    <system-out><![CDATA[[2022-11-29 22:34:40,039] Open demo page
-[2022-11-29 22:34:41,133] Click to product to go to detailed page
-[2022-11-29 22:34:42,821] Click to Add to wishlist
-[2022-11-29 22:34:42,926] Click to Wishlist on the header
-[2022-11-29 22:34:43,861] Click to Check box of product
-[2022-11-29 22:34:43,929] Click to remove button
-[2022-11-29 22:34:45,025] Verify empty message is displayed
-[2022-11-29 22:34:45,070] Verify product is removed
-Element not in DOM!
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+[2023-02-07 21:23:50,933] Click to Register on the header
+[2023-02-07 21:23:52,923] Select gender in checkbox
+[2023-02-07 21:23:53,174] Input valid value into Firstname text box with: Teodoro
+[2023-02-07 21:23:53,434] Input valid value into Lastname text box with: Cherrie
+[2023-02-07 21:23:53,603] Select Date of birthday
+[2023-02-07 21:23:53,817] Select Month of birthday
+[2023-02-07 21:23:53,914] Select Year of birthday
+[2023-02-07 21:23:54,028] Input valid email to email text box with: khalilah.stark@hotmail.com
+[2023-02-07 21:23:54,132] Input valid value into password text box with: 4kzvxg5debgo
+[2023-02-07 21:23:54,632] Input valid value into confirm password text box with: 4kzvxg5debgo
+[2023-02-07 21:23:54,977] Click to Register button
+[2023-02-07 21:23:58,023] Click on Continue button to return to homepage
+[2023-02-07 21:24:02,396] Click to product to go to detailed page
+[2023-02-07 21:24:06,660] Get product title, SKU and price
+[2023-02-07 21:24:06,833] Click to Add to wishlist
+[2023-02-07 21:24:07,175] Verify Success message is displayed after adding to wishlist
+[2023-02-07 21:24:07,793] Click to Wishlist on the header
+[2023-02-07 21:24:09,321] Verify product is added to wishlist
+[2023-02-07 21:24:09,449] Click on Wishlist URL
+[2023-02-07 21:24:10,058] Verify user can wishlist from URL with: Wishlist of Teodoro Cherrie
 ]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 22755
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Feb 07, 2023 9:23:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
   </testcase>
+  <testcase name="TC_02_Add_Product_To_Cart" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="2.671"/>
+  <testcase name="TC_03_Remove_Product_In_Wishlist_Page" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="14.119"/>
+  <testcase name="TC_04_Add_Product_To_Compare" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="58.236"/>
+  <testcase name="TC_05_Recently_Viewed_Products" classname="com.nopcommerce.user.NopCommerce_Wishlist_Compare" time="18.326"/>
 </testsuite>

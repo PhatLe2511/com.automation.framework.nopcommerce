@@ -24,7 +24,11 @@ public class BasePage {
 	private int shortTimeOut = GlobalConstants.SHORT_TIMEOUT;
 	private int longTimeOut = GlobalConstants.LONG_TIMEOUT;
 	
-	
+	public void backToPreviousPage(WebDriver driver){
+		driver.navigate().back();
+	}
+
+
 	public void setImplicitTimeOut(WebDriver driver, int timeOut) {
 		driver.manage().timeouts().implicitlyWait(timeOut, TimeUnit.SECONDS);
 	}
@@ -68,7 +72,8 @@ public class BasePage {
 	}
 	
 	public void waitForElementClickable(WebDriver driver, String locator) {
-		new WebDriverWait(driver, shortTimeOut).until(ExpectedConditions.elementToBeClickable(getLocatorBy(locator)));
+		new WebDriverWait(driver, shortTimeOut).
+				until(ExpectedConditions.elementToBeClickable(getLocatorBy(locator)));
 	}
 	
 	public void waitForElementClickable(WebDriver driver, String locator, String... dynamicValues) {

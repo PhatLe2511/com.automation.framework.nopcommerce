@@ -16,8 +16,8 @@ public class DashboardPageObject extends SideBarPageObject{
 		WebDriver driver;
 
 		public void clickToMyAccountLink() {
-			waitForElementClickable(driver, DashboardPageUI.MYACCOUNT_BUTTON);
-			clickToElement(driver, DashboardPageUI.MYACCOUNT_BUTTON);
+			waitForElementClickable(driver, DashboardPageUI.MY_ACCOUNT_BUTTON);
+			clickToElement(driver, DashboardPageUI.MY_ACCOUNT_BUTTON);
 		}
 
 		public boolean isLogOutButtonDisplay() {
@@ -63,4 +63,38 @@ public class DashboardPageObject extends SideBarPageObject{
 	public void openDemoUrl(String url) {
 			openURL(driver, url);
 	}
+
+    public void clickOnCompareButtonAtProduct(String productName) {
+		waitForElementClickable(driver, DashboardPageUI.COMPARE_BUTTON, productName);
+		clickToElement(driver, DashboardPageUI.COMPARE_BUTTON, productName);
+		sleepInSecond(2);
+    }
+
+	public String getProductImage(String attributeName) {
+		waitForElementVisible(driver, DashboardPageUI.PRODUCT_IMAGE, attributeName);
+		return getAttributeValue(driver,DashboardPageUI.PRODUCT_IMAGE, "alt", attributeName);
+	}
+
+	public String getProductName(String productName) {
+		waitForElementVisible(driver, DashboardPageUI.PRODUCT_NAME, productName);
+		return getElementText(driver, DashboardPageUI.PRODUCT_NAME, productName);
+	}
+
+	public String getProductPrice(String productPrice) {
+		waitForElementVisible(driver, DashboardPageUI.PRODUCT_PRICE, productPrice);
+		return getElementText(driver, DashboardPageUI.PRODUCT_PRICE, productPrice);
+	}
+
+	public String getCompareMessage() {
+		waitForElementVisible(driver, DashboardPageUI.COMPARED_PRODUCT_MESSAGE);
+		return getElementText(driver, DashboardPageUI.COMPARED_PRODUCT_MESSAGE);
+	}
+
+	public CompareListPageObject clickToProductComparison() {
+		waitForElementClickable(driver, DashboardPageUI.PRODUCT_COMPARISON_HYPERLINK);
+		clickToElement(driver, DashboardPageUI.PRODUCT_COMPARISON_HYPERLINK);
+		return PageGeneratorManager.getCompareListPageObject(driver);
+	}
+
+
 }

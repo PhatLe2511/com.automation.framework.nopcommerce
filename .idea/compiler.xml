@@ -12,7 +12,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="com.automation.framework.nopcommerce" target="11" />
-      <module name="Maven-Hybrid-Framework-Nopcommerce" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

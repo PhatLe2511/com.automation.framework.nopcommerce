@@ -12,8 +12,8 @@
       <class name="com.nopcommerce.user.NopCommerce_Wishlist_Compare">
         <methods>
           <include name="AfterClass"/>
+          <include name="TC_01_Add_To_Wishlist" invocation-numbers="0"/>
           <include name="BeforeClass"/>
-          <include name="TC_03_Remove_Product_In_Wishlist_Page" invocation-numbers="0"/>
         </methods>
       </class> <!-- com.nopcommerce.user.NopCommerce_Wishlist_Compare -->
     </classes>

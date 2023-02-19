@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 51.993 s <<< FAILURE! - in TestSuite
-TC_03_Remove_Product_In_Wishlist_Page(com.nopcommerce.user.NopCommerce_Wishlist_Compare)  Time elapsed: 15.124 s  <<< FAILURE!
-java.lang.AssertionError: expected [false] but found [true]
-	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(NopCommerce_Wishlist_Compare.java:192)
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 132.335 s <<< FAILURE! - in TestSuite
+TC_01_Add_To_Wishlist(com.nopcommerce.user.NopCommerce_Wishlist_Compare)  Time elapsed: 8.699 s  <<< FAILURE!
+java.lang.AssertionError: expected [Wishlist of Teodoro Cherrie] but found [Wishlist of]
+	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(NopCommerce_Wishlist_Compare.java:137)
 

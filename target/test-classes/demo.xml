@@ -19,7 +19,9 @@
                  <class name="com.nopcommerce.user.NopCommerce_Register"/>
                  <class name="com.nopcommerce.user.NopCommerce_Search"/>
                  <class name="com.nopcommerce.user.Nopcommerce_Sort_Display_Paging"/>
+                 <class name="com.nopcommerce.user.NopCommerce_Order"/>
                   -->
+
 			<class name="com.nopcommerce.user.NopCommerce_Wishlist_Compare"/>
 
         </classes>

@@ -7,4 +7,6 @@ public class NotebookPageUI {
     public static final  String PRODUCT_PRICE = "css=div.add-info>div.prices>span";
     public static final String DYNAMIC_PAGING_NAVIGATION = "xpath=//li/a[text()='%s']";
     public static final String DYNAMIC_PAGING_NUMBER = "xpath=//li[@class='individual-page']/a[text()='%s']";
+    public static final String PRODUCT_NAME = "xpath=//h2[@class='product-title']/a[text()='%s']";
+    public static final String RECENTLY_VIEWED_HYPERLINK = "xpath=//a[text()='Recently viewed products']";
 }

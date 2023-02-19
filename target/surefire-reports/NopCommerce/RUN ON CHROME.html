@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>RUN ON CHROME</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>2/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>4/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Nov 29 22:34:07 ICT 2022</td>
+<td>Started on:</td><td>Tue Feb 07 21:23:35 ICT 2023</td>
 </tr>
-<tr><td>Total time:</td><td>48 seconds (48620 ms)</td>
+<tr><td>Total time:</td><td>128 seconds (128645 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,38 +75,40 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page()'><b>TC_03_Remove_Product_In_Wishlist_Page</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(java.lang.reflect.Method)<br/>
-<a href="#Output-1730158315" onClick='toggleBox("Output-1730158315", this, "Show output", "Hide output");'>Show output</a>
+<td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist()'><b>TC_01_Add_To_Wishlist</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(java.lang.reflect.Method)<br/>
+<a href="#Output-334648813" onClick='toggleBox("Output-334648813", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1730158315" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1730158315">
-[2022-11-29 22:34:40,039] Open demo page
+<a href="#Output-334648813" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-334648813">
+[2023-02-07 21:24:02,396] Click to product to go to detailed page
 <br><br/>
-[2022-11-29 22:34:41,133] Click to product to go to detailed page
+[2023-02-07 21:24:06,660] Get product title, SKU and price
 <br><br/>
-[2022-11-29 22:34:42,821] Click to Add to wishlist
+[2023-02-07 21:24:06,833] Click to Add to wishlist
 <br><br/>
-[2022-11-29 22:34:42,926] Click to Wishlist on the header
+[2023-02-07 21:24:07,175] Verify Success message is displayed after adding to wishlist
 <br><br/>
-[2022-11-29 22:34:43,861] Click to Check box of product
+[2023-02-07 21:24:07,793] Click to Wishlist on the header
 <br><br/>
-[2022-11-29 22:34:43,929] Click to remove button
+[2023-02-07 21:24:09,321] Verify product is added to wishlist
 <br><br/>
-[2022-11-29 22:34:45,025] Verify empty message is displayed
+[2023-02-07 21:24:09,449] Click on Wishlist URL
 <br><br/>
-[2022-11-29 22:34:45,070] Verify product is removed
+[2023-02-07 21:24:10,058] Verify user can wishlist from URL with: Wishlist of Teodoro Cherrie
 <br><br/>
 </div>
 </td>
-<td><div><pre>java.lang.AssertionError: expected [false] but found [true]
-	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(NopCommerce_Wishlist_Compare.java:192)
-... Removed 33 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1730158315", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1730158315'><pre>java.lang.AssertionError: expected [false] but found [true]
+<td><div><pre>java.lang.AssertionError: expected [Wishlist of Teodoro Cherrie] but found [Wishlist of]
+	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(NopCommerce_Wishlist_Compare.java:137)
+... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace334648813", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace334648813'><pre>java.lang.AssertionError: expected [Wishlist of Teodoro Cherrie] but found [Wishlist of]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertFalse(Assert.java:65)
-	at org.testng.Assert.assertFalse(Assert.java:75)
-	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(NopCommerce_Wishlist_Compare.java:192)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(NopCommerce_Wishlist_Compare.java:137)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -137,8 +139,8 @@ function toggleAllBoxes() {
 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
 </pre></div></td>
-<td>15</td>
-<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@35ff8fc9</td></tr>
+<td>8</td>
+<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@676ff3b0</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -148,53 +150,113 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist()'><b>TC_01_Add_To_Wishlist</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_01_Add_To_Wishlist(java.lang.reflect.Method)<br/>
-<a href="#Output-816288886" onClick='toggleBox("Output-816288886", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-816288886" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-816288886">
-[2022-11-29 22:34:27,527] Click to product to go to detailed page
-<br><br/>
-[2022-11-29 22:34:34,456] Get product title, SKU and price
-<br><br/>
-[2022-11-29 22:34:34,581] Click to Add to wishlist
-<br><br/>
-[2022-11-29 22:34:34,727] Verify Success message is displayed after adding to wishlist
-<br><br/>
-[2022-11-29 22:34:35,165] Click to Wishlist on the header
-<br><br/>
-[2022-11-29 22:34:36,869] Verify product is added to wishlist
-<br><br/>
-[2022-11-29 22:34:36,997] Click on Wishlist URL
-<br><br/>
-[2022-11-29 22:34:37,593] Verify user can wishlist from URL with: Wishlist of King Usha
-<br><br/>
-</div>
-</td>
-<td></td>
-<td>10</td>
-<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@35ff8fc9</td></tr>
-<tr>
 <td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_02_Add_Product_To_Cart()'><b>TC_02_Add_Product_To_Cart</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_02_Add_Product_To_Cart(java.lang.reflect.Method)<br/>
-<a href="#Output-511920731" onClick='toggleBox("Output-511920731", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-1683257987" onClick='toggleBox("Output-1683257987", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-511920731" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-511920731">
-[2022-11-29 22:34:37,774] Open demo page
+<a href="#Output-1683257987" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1683257987">
+[2023-02-07 21:24:10,573] Open demo page
 <br><br/>
-[2022-11-29 22:34:38,223] Click to Wishlist on the header
+[2023-02-07 21:24:11,143] Click to Wishlist on the header
 <br><br/>
-[2022-11-29 22:34:38,718] Click to Check box of product
+[2023-02-07 21:24:11,836] Click to Check box of product
 <br><br/>
-[2022-11-29 22:34:38,807] Click to Add to cart
+[2023-02-07 21:24:11,907] Click to Add to cart
 <br><br/>
-[2022-11-29 22:34:39,988] Verify products Wishlist is removed and shopping cart is added
+[2023-02-07 21:24:13,164] Verify products Wishlist is removed and shopping cart is added
 <br><br/>
 </div>
 </td>
 <td></td>
 <td>2</td>
-<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@35ff8fc9</td></tr>
+<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@676ff3b0</td></tr>
+<tr>
+<td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page()'><b>TC_03_Remove_Product_In_Wishlist_Page</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_03_Remove_Product_In_Wishlist_Page(java.lang.reflect.Method)<br/>
+<a href="#Output-757791711" onClick='toggleBox("Output-757791711", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-757791711" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-757791711">
+[2023-02-07 21:24:13,245] Open demo page
+<br><br/>
+[2023-02-07 21:24:13,970] Click to product to go to detailed page
+<br><br/>
+[2023-02-07 21:24:15,231] Click to Add to wishlist
+<br><br/>
+[2023-02-07 21:24:15,333] Click to Wishlist on the header
+<br><br/>
+[2023-02-07 21:24:16,396] Click to Check box of product
+<br><br/>
+[2023-02-07 21:24:16,517] Click to remove button
+<br><br/>
+[2023-02-07 21:24:17,136] Verify empty message is displayed
+<br><br/>
+[2023-02-07 21:24:17,326] Verify product is removed
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@676ff3b0</td></tr>
+<tr>
+<td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_04_Add_Product_To_Compare()'><b>TC_04_Add_Product_To_Compare</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_04_Add_Product_To_Compare(java.lang.reflect.Method)<br/>
+<a href="#Output-558947428" onClick='toggleBox("Output-558947428", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-558947428" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-558947428">
+[2023-02-07 21:24:27,375] Open demo page
+<br><br/>
+[2023-02-07 21:24:27,898] Get product information
+<br><br/>
+[2023-02-07 21:24:28,094] Click on compare button at product
+<br><br/>
+[2023-02-07 21:24:32,370] Verify message informed products are added to compare list
+<br><br/>
+[2023-02-07 21:24:32,438] Go to Compare list page by clicking on product comparison hyperlink
+<br><br/>
+[2023-02-07 21:24:33,833] Verify product information is displayed
+<br><br/>
+[2023-02-07 21:24:34,029] Click on clear list button
+<br><br/>
+[2023-02-07 21:24:35,005] Verify message: You have no items to compare
+<br><br/>
+[2023-02-07 21:24:35,312] Verify product image, name and price are removed
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>58</td>
+<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@676ff3b0</td></tr>
+<tr>
+<td title='com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_05_Recently_Viewed_Products()'><b>TC_05_Recently_Viewed_Products</b><br>Test class: com.nopcommerce.user.NopCommerce_Wishlist_Compare<br>Parameters: private void com.nopcommerce.user.NopCommerce_Wishlist_Compare.TC_05_Recently_Viewed_Products(java.lang.reflect.Method)<br/>
+<a href="#Output-298222185" onClick='toggleBox("Output-298222185", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-298222185" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-298222185">
+[2023-02-07 21:25:25,623] Open demo page
+<br><br/>
+[2023-02-07 21:25:26,928] Hover to Computers
+<br><br/>
+[2023-02-07 21:25:27,177] Click to Notebook to navigate to the page
+<br><br/>
+[2023-02-07 21:25:28,836] Click on Product name 1
+<br><br/>
+[2023-02-07 21:25:32,125] Click on Product name 2
+<br><br/>
+[2023-02-07 21:25:34,530] Click on Product name 3
+<br><br/>
+[2023-02-07 21:25:37,497] Click on Product name 4
+<br><br/>
+[2023-02-07 21:25:40,065] Click on Product name 5
+<br><br/>
+[2023-02-07 21:25:43,107] Go to Recent viewed page
+<br><br/>
+[2023-02-07 21:25:43,775] Verify only 3 recently viewed products are displayed
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>com.nopcommerce.user.NopCommerce_Wishlist_Compare@676ff3b0</td></tr>
 </table><p>
 </body>
 </html>

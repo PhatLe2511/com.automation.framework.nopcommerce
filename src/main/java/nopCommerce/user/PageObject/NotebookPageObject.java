@@ -141,4 +141,16 @@ public class NotebookPageObject extends BasePage {
         waitForElementClickable(driver, NotebookPageUI.DYNAMIC_PAGING_NUMBER, pageNumber);
         clickToElement(driver, NotebookPageUI.DYNAMIC_PAGING_NUMBER, pageNumber);
     }
+
+    public DetailedProductPageObject clickOnProductByName(String productName) {
+        waitForElementClickable(driver, NotebookPageUI.PRODUCT_NAME, productName);
+        clickToElement(driver, NotebookPageUI.PRODUCT_NAME, productName);
+        return PageGeneratorManager.getDetailedProductPageObject(driver);
+    }
+
+    public RecentLyReviewedPO clickOnRecentlyViewedHyperlink() {
+        waitForElementClickable(driver, NotebookPageUI.RECENTLY_VIEWED_HYPERLINK);
+        clickToElement(driver, NotebookPageUI.RECENTLY_VIEWED_HYPERLINK);
+        return PageGeneratorManager.getRecentlyViewedPage(driver);
+    }
 }

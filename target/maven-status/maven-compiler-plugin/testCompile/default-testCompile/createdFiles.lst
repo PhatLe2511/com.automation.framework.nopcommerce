@@ -1,5 +1,6 @@
 com/nopcommerce/user/NopCommerce_Search.class
 nopCommerce/common/Register_Common.class
+com/nopcommerce/user/NopCommerce_Order.class
 com/nopcommerce/user/NopCommerce_Login.class
 com/nopcommerce/user/NopCommerce_Wishlist_Compare.class
 com/nopcommerce/user/Nopcommerce_Sort_Display_Paging.class

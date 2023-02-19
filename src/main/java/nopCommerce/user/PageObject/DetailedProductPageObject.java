@@ -59,4 +59,9 @@ public class DetailedProductPageObject extends BasePage{
 		clickToElement(driver, DetailedProductPageUI.WISHLIST_HYPERLINK);
 		return PageGeneratorManager.getWishlistPageObject(driver);
 	}
+
+	public NotebookPageObject backToNoteBookPage() {
+		backToPreviousPage(driver);
+		return PageGeneratorManager.getNotebookPageObject(driver);
+	}
 }

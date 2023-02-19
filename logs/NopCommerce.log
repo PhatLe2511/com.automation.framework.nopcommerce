@@ -10339,3 +10339,931 @@
 [2022-11-29 22:34:43,929] Click to remove button
 [2022-11-29 22:34:45,025] Verify empty message is displayed
 [2022-11-29 22:34:45,070] Verify product is removed
+[2022-12-01 22:01:43,866] Click to Register on the header
+[2022-12-01 22:01:45,500] Select gender in checkbox
+[2022-12-01 22:01:45,726] Input valid value into Firstname text box with: Ernestine
+[2022-12-01 22:01:46,029] Input valid value into Lastname text box with: Mark
+[2022-12-01 22:01:46,211] Select Date of birthday
+[2022-12-01 22:01:46,405] Select Month of birthday
+[2022-12-01 22:01:46,500] Select Year of birthday
+[2022-12-01 22:01:46,597] Input valid email to email text box with: evie.schimmel@yahoo.com
+[2022-12-01 22:01:47,271] Input valid value into password text box with: 1d86312ame
+[2022-12-01 22:01:48,160] Input valid value into confirm password text box with: 1d86312ame
+[2022-12-01 22:01:48,498] Click to Register button
+[2022-12-01 22:01:50,943] Click on Continue button to return to homepage
+[2022-12-01 22:01:54,188] Click to product to go to detailed page
+[2022-12-01 22:01:58,388] Get product title, SKU and price
+[2022-12-01 22:01:58,516] Click to Add to wishlist
+[2022-12-01 22:01:58,722] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:01:59,035] Click to Wishlist on the header
+[2022-12-01 22:02:01,630] Verify product is added to wishlist
+[2022-12-01 22:02:01,760] Click on Wishlist URL
+[2022-12-01 22:02:02,359] Verify user can wishlist from URL with: Wishlist of Ernestine Mark
+[2022-12-01 22:02:02,553] Open demo page
+[2022-12-01 22:02:03,004] Click to Wishlist on the header
+[2022-12-01 22:02:03,454] Click to Check box of product
+[2022-12-01 22:02:03,561] Click to Add to cart
+[2022-12-01 22:02:06,310] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:02:06,360] Open demo page
+[2022-12-01 22:02:07,006] Click to product to go to detailed page
+[2022-12-01 22:02:08,047] Click to Add to wishlist
+[2022-12-01 22:02:08,147] Click to Wishlist on the header
+[2022-12-01 22:02:09,021] Click to Check box of product
+[2022-12-01 22:02:09,092] Click to remove button
+[2022-12-01 22:02:09,779] Verify empty message is displayed
+[2022-12-01 22:02:09,820] Verify product is removed
+[2022-12-01 22:02:19,895] Open demo page
+[2022-12-01 22:02:20,293] Click on compare button at product
+[2022-12-01 22:02:20,558] Get product information
+[2022-12-01 22:04:44,320] Click to Register on the header
+[2022-12-01 22:04:47,270] Select gender in checkbox
+[2022-12-01 22:04:47,465] Input valid value into Firstname text box with: Ophelia
+[2022-12-01 22:04:47,741] Input valid value into Lastname text box with: Charissa
+[2022-12-01 22:04:47,892] Select Date of birthday
+[2022-12-01 22:04:48,048] Select Month of birthday
+[2022-12-01 22:04:48,140] Select Year of birthday
+[2022-12-01 22:04:48,243] Input valid email to email text box with: alonso.ernser@gmail.com
+[2022-12-01 22:04:48,857] Input valid value into password text box with: dxr1msrq
+[2022-12-01 22:04:49,830] Input valid value into confirm password text box with: dxr1msrq
+[2022-12-01 22:04:50,200] Click to Register button
+[2022-12-01 22:04:53,484] Click on Continue button to return to homepage
+[2022-12-01 22:04:56,777] Click to product to go to detailed page
+[2022-12-01 22:04:59,958] Get product title, SKU and price
+[2022-12-01 22:05:00,090] Click to Add to wishlist
+[2022-12-01 22:05:00,242] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:05:00,592] Click to Wishlist on the header
+[2022-12-01 22:05:02,529] Verify product is added to wishlist
+[2022-12-01 22:05:02,654] Click on Wishlist URL
+[2022-12-01 22:05:03,241] Verify user can wishlist from URL with: Wishlist of Ophelia Charissa
+[2022-12-01 22:05:03,428] Open demo page
+[2022-12-01 22:05:03,852] Click to Wishlist on the header
+[2022-12-01 22:05:04,258] Click to Check box of product
+[2022-12-01 22:05:04,440] Click to Add to cart
+[2022-12-01 22:05:06,150] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:05:06,203] Open demo page
+[2022-12-01 22:05:06,610] Click to product to go to detailed page
+[2022-12-01 22:05:07,612] Click to Add to wishlist
+[2022-12-01 22:05:07,748] Click to Wishlist on the header
+[2022-12-01 22:05:08,506] Click to Check box of product
+[2022-12-01 22:05:08,599] Click to remove button
+[2022-12-01 22:05:09,064] Verify empty message is displayed
+[2022-12-01 22:05:09,101] Verify product is removed
+[2022-12-01 22:05:19,143] Open demo page
+[2022-12-01 22:05:19,568] Click on compare button at product
+[2022-12-01 22:05:20,000] Get product information
+[2022-12-01 22:07:08,525] Click to Register on the header
+[2022-12-01 22:07:10,339] Select gender in checkbox
+[2022-12-01 22:07:10,541] Input valid value into Firstname text box with: Felicia
+[2022-12-01 22:07:10,804] Input valid value into Lastname text box with: Rona
+[2022-12-01 22:07:10,960] Select Date of birthday
+[2022-12-01 22:07:11,124] Select Month of birthday
+[2022-12-01 22:07:11,218] Select Year of birthday
+[2022-12-01 22:07:11,327] Input valid email to email text box with: taylor.dooley@yahoo.com
+[2022-12-01 22:07:11,934] Input valid value into password text box with: 34whtq4o6g6egk
+[2022-12-01 22:07:12,498] Input valid value into confirm password text box with: 34whtq4o6g6egk
+[2022-12-01 22:07:12,862] Click to Register button
+[2022-12-01 22:07:15,256] Click on Continue button to return to homepage
+[2022-12-01 22:07:18,544] Click to product to go to detailed page
+[2022-12-01 22:07:20,175] Get product title, SKU and price
+[2022-12-01 22:07:20,296] Click to Add to wishlist
+[2022-12-01 22:07:20,448] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:07:20,821] Click to Wishlist on the header
+[2022-12-01 22:07:21,631] Verify product is added to wishlist
+[2022-12-01 22:07:21,754] Click on Wishlist URL
+[2022-12-01 22:07:22,351] Verify user can wishlist from URL with: Wishlist of Felicia Rona
+[2022-12-01 22:07:22,518] Open demo page
+[2022-12-01 22:07:22,944] Click to Wishlist on the header
+[2022-12-01 22:07:23,363] Click to Check box of product
+[2022-12-01 22:07:23,482] Click to Add to cart
+[2022-12-01 22:07:24,668] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:07:24,718] Open demo page
+[2022-12-01 22:07:25,064] Click to product to go to detailed page
+[2022-12-01 22:07:26,064] Click to Add to wishlist
+[2022-12-01 22:07:26,203] Click to Wishlist on the header
+[2022-12-01 22:07:26,928] Click to Check box of product
+[2022-12-01 22:07:26,990] Click to remove button
+[2022-12-01 22:07:27,423] Verify empty message is displayed
+[2022-12-01 22:07:27,460] Verify product is removed
+[2022-12-01 22:07:37,501] Open demo page
+[2022-12-01 22:07:37,943] Get product information
+[2022-12-01 22:10:11,054] Click to Register on the header
+[2022-12-01 22:10:12,956] Select gender in checkbox
+[2022-12-01 22:10:13,150] Input valid value into Firstname text box with: Jayson
+[2022-12-01 22:10:13,445] Input valid value into Lastname text box with: Tia
+[2022-12-01 22:10:13,599] Select Date of birthday
+[2022-12-01 22:10:13,747] Select Month of birthday
+[2022-12-01 22:10:13,837] Select Year of birthday
+[2022-12-01 22:10:13,935] Input valid email to email text box with: isidra.feest@yahoo.com
+[2022-12-01 22:10:14,208] Input valid value into password text box with: q6c95ocn53
+[2022-12-01 22:10:15,116] Input valid value into confirm password text box with: q6c95ocn53
+[2022-12-01 22:10:15,439] Click to Register button
+[2022-12-01 22:10:17,844] Click on Continue button to return to homepage
+[2022-12-01 22:10:21,081] Click to product to go to detailed page
+[2022-12-01 22:10:22,991] Get product title, SKU and price
+[2022-12-01 22:10:23,115] Click to Add to wishlist
+[2022-12-01 22:10:23,259] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:10:24,057] Click to Wishlist on the header
+[2022-12-01 22:10:25,279] Verify product is added to wishlist
+[2022-12-01 22:10:25,393] Click on Wishlist URL
+[2022-12-01 22:10:25,984] Verify user can wishlist from URL with: Wishlist of Jayson Tia
+[2022-12-01 22:10:26,178] Open demo page
+[2022-12-01 22:10:26,556] Click to Wishlist on the header
+[2022-12-01 22:10:26,939] Click to Check box of product
+[2022-12-01 22:10:27,076] Click to Add to cart
+[2022-12-01 22:10:28,307] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:10:28,358] Open demo page
+[2022-12-01 22:10:28,710] Click to product to go to detailed page
+[2022-12-01 22:10:29,708] Click to Add to wishlist
+[2022-12-01 22:10:29,912] Click to Wishlist on the header
+[2022-12-01 22:10:30,619] Click to Check box of product
+[2022-12-01 22:10:30,682] Click to remove button
+[2022-12-01 22:10:31,139] Verify empty message is displayed
+[2022-12-01 22:10:31,181] Verify product is removed
+[2022-12-01 22:10:41,214] Open demo page
+[2022-12-01 22:10:41,591] Get product information
+[2022-12-01 22:12:32,290] Click to Register on the header
+[2022-12-01 22:12:34,112] Select gender in checkbox
+[2022-12-01 22:12:34,305] Input valid value into Firstname text box with: Ashley
+[2022-12-01 22:12:34,553] Input valid value into Lastname text box with: Giovanni
+[2022-12-01 22:12:34,709] Select Date of birthday
+[2022-12-01 22:12:34,867] Select Month of birthday
+[2022-12-01 22:12:34,959] Select Year of birthday
+[2022-12-01 22:12:35,055] Input valid email to email text box with: johnnie.skiles@hotmail.com
+[2022-12-01 22:12:35,495] Input valid value into password text box with: xwhihiylsk3
+[2022-12-01 22:12:36,564] Input valid value into confirm password text box with: xwhihiylsk3
+[2022-12-01 22:12:36,886] Click to Register button
+[2022-12-01 22:12:39,074] Click on Continue button to return to homepage
+[2022-12-01 22:12:42,321] Click to product to go to detailed page
+[2022-12-01 22:12:44,252] Get product title, SKU and price
+[2022-12-01 22:12:44,385] Click to Add to wishlist
+[2022-12-01 22:12:44,534] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:12:44,870] Click to Wishlist on the header
+[2022-12-01 22:12:46,215] Verify product is added to wishlist
+[2022-12-01 22:12:46,349] Click on Wishlist URL
+[2022-12-01 22:12:46,967] Verify user can wishlist from URL with: Wishlist of Ashley Giovanni
+[2022-12-01 22:12:47,169] Open demo page
+[2022-12-01 22:12:47,580] Click to Wishlist on the header
+[2022-12-01 22:12:48,025] Click to Check box of product
+[2022-12-01 22:12:48,145] Click to Add to cart
+[2022-12-01 22:12:49,448] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:12:49,505] Open demo page
+[2022-12-01 22:12:49,866] Click to product to go to detailed page
+[2022-12-01 22:12:50,859] Click to Add to wishlist
+[2022-12-01 22:12:50,957] Click to Wishlist on the header
+[2022-12-01 22:12:51,717] Click to Check box of product
+[2022-12-01 22:12:51,801] Click to remove button
+[2022-12-01 22:12:52,294] Verify empty message is displayed
+[2022-12-01 22:12:52,331] Verify product is removed
+[2022-12-01 22:13:02,365] Open demo page
+[2022-12-01 22:13:02,825] Get product information
+[2022-12-01 22:15:47,579] Click to Register on the header
+[2022-12-01 22:15:50,273] Select gender in checkbox
+[2022-12-01 22:15:50,482] Input valid value into Firstname text box with: Adell
+[2022-12-01 22:15:50,746] Input valid value into Lastname text box with: Deangelo
+[2022-12-01 22:15:50,913] Select Date of birthday
+[2022-12-01 22:15:51,298] Select Month of birthday
+[2022-12-01 22:15:51,497] Select Year of birthday
+[2022-12-01 22:15:51,734] Input valid email to email text box with: neida.roberts@yahoo.com
+[2022-12-01 22:15:52,063] Input valid value into password text box with: nrzy4nhx
+[2022-12-01 22:15:53,218] Input valid value into confirm password text box with: nrzy4nhx
+[2022-12-01 22:15:53,338] Click to Register button
+[2022-12-01 22:15:54,742] Click on Continue button to return to homepage
+[2022-12-01 22:15:58,098] Click to product to go to detailed page
+[2022-12-01 22:15:59,681] Get product title, SKU and price
+[2022-12-01 22:15:59,817] Click to Add to wishlist
+[2022-12-01 22:15:59,972] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:16:00,616] Click to Wishlist on the header
+[2022-12-01 22:16:02,075] Verify product is added to wishlist
+[2022-12-01 22:16:02,220] Click on Wishlist URL
+[2022-12-01 22:16:02,818] Verify user can wishlist from URL with: Wishlist of Adell Deangelo
+[2022-12-01 22:16:02,999] Open demo page
+[2022-12-01 22:16:03,397] Click to Wishlist on the header
+[2022-12-01 22:16:03,832] Click to Check box of product
+[2022-12-01 22:16:03,973] Click to Add to cart
+[2022-12-01 22:16:05,556] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:16:05,767] Open demo page
+[2022-12-01 22:16:06,307] Click to product to go to detailed page
+[2022-12-01 22:16:07,341] Click to Add to wishlist
+[2022-12-01 22:16:07,448] Click to Wishlist on the header
+[2022-12-01 22:16:08,258] Click to Check box of product
+[2022-12-01 22:16:08,320] Click to remove button
+[2022-12-01 22:16:08,799] Verify empty message is displayed
+[2022-12-01 22:16:08,836] Verify product is removed
+[2022-12-01 22:16:18,885] Open demo page
+[2022-12-01 22:16:19,358] Get product information
+[2022-12-01 22:16:19,522] Click on compare button at product
+[2022-12-01 22:16:20,251] Verify message informed products are added to compare list
+[2022-12-01 22:16:20,311] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:16:22,103] Verify product information is displayed
+[2022-12-01 22:18:18,599] Click to Register on the header
+[2022-12-01 22:18:20,484] Select gender in checkbox
+[2022-12-01 22:18:20,712] Input valid value into Firstname text box with: Elin
+[2022-12-01 22:18:20,963] Input valid value into Lastname text box with: Belen
+[2022-12-01 22:18:21,113] Select Date of birthday
+[2022-12-01 22:18:21,448] Select Month of birthday
+[2022-12-01 22:18:21,663] Select Year of birthday
+[2022-12-01 22:18:21,906] Input valid email to email text box with: arnold.bartoletti@hotmail.com
+[2022-12-01 22:18:23,023] Input valid value into password text box with: hrkvsids44qk1
+[2022-12-01 22:18:23,387] Input valid value into confirm password text box with: hrkvsids44qk1
+[2022-12-01 22:18:23,501] Click to Register button
+[2022-12-01 22:18:25,403] Click on Continue button to return to homepage
+[2022-12-01 22:18:28,485] Click to product to go to detailed page
+[2022-12-01 22:18:30,095] Get product title, SKU and price
+[2022-12-01 22:18:30,223] Click to Add to wishlist
+[2022-12-01 22:18:30,355] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:18:30,716] Click to Wishlist on the header
+[2022-12-01 22:18:31,388] Verify product is added to wishlist
+[2022-12-01 22:18:31,512] Click on Wishlist URL
+[2022-12-01 22:18:32,094] Verify user can wishlist from URL with: Wishlist of Elin Belen
+[2022-12-01 22:18:32,249] Open demo page
+[2022-12-01 22:18:32,661] Click to Wishlist on the header
+[2022-12-01 22:18:33,101] Click to Check box of product
+[2022-12-01 22:18:33,259] Click to Add to cart
+[2022-12-01 22:18:34,649] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:18:34,700] Open demo page
+[2022-12-01 22:18:35,634] Click to product to go to detailed page
+[2022-12-01 22:18:36,725] Click to Add to wishlist
+[2022-12-01 22:18:36,943] Click to Wishlist on the header
+[2022-12-01 22:18:37,740] Click to Check box of product
+[2022-12-01 22:18:37,803] Click to remove button
+[2022-12-01 22:18:38,263] Verify empty message is displayed
+[2022-12-01 22:18:38,301] Verify product is removed
+[2022-12-01 22:18:48,352] Open demo page
+[2022-12-01 22:18:48,785] Get product information
+[2022-12-01 22:18:48,985] Click on compare button at product
+[2022-12-01 22:18:53,468] Verify message informed products are added to compare list
+[2022-12-01 22:18:54,655] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:18:56,843] Verify product information is displayed
+[2022-12-01 22:22:13,828] Click to Register on the header
+[2022-12-01 22:22:15,409] Select gender in checkbox
+[2022-12-01 22:22:15,623] Input valid value into Firstname text box with: Ambrose
+[2022-12-01 22:22:15,900] Input valid value into Lastname text box with: Shawn
+[2022-12-01 22:22:16,049] Select Date of birthday
+[2022-12-01 22:22:16,217] Select Month of birthday
+[2022-12-01 22:22:16,309] Select Year of birthday
+[2022-12-01 22:22:16,404] Input valid email to email text box with: jed.predovic@yahoo.com
+[2022-12-01 22:22:16,986] Input valid value into password text box with: 3xbvfkdcb
+[2022-12-01 22:22:17,493] Input valid value into confirm password text box with: 3xbvfkdcb
+[2022-12-01 22:22:17,803] Click to Register button
+[2022-12-01 22:22:20,285] Click on Continue button to return to homepage
+[2022-12-01 22:22:23,520] Click to product to go to detailed page
+[2022-12-01 22:22:25,521] Get product title, SKU and price
+[2022-12-01 22:22:25,653] Click to Add to wishlist
+[2022-12-01 22:22:25,805] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:22:26,149] Click to Wishlist on the header
+[2022-12-01 22:22:27,225] Verify product is added to wishlist
+[2022-12-01 22:22:27,345] Click on Wishlist URL
+[2022-12-01 22:22:27,882] Verify user can wishlist from URL with: Wishlist of Ambrose Shawn
+[2022-12-01 22:22:28,063] Open demo page
+[2022-12-01 22:22:28,455] Click to Wishlist on the header
+[2022-12-01 22:22:28,873] Click to Check box of product
+[2022-12-01 22:22:29,002] Click to Add to cart
+[2022-12-01 22:22:30,279] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:22:30,334] Open demo page
+[2022-12-01 22:22:30,680] Click to product to go to detailed page
+[2022-12-01 22:22:31,654] Click to Add to wishlist
+[2022-12-01 22:22:31,805] Click to Wishlist on the header
+[2022-12-01 22:22:32,562] Click to Check box of product
+[2022-12-01 22:22:32,641] Click to remove button
+[2022-12-01 22:22:33,078] Verify empty message is displayed
+[2022-12-01 22:22:33,119] Verify product is removed
+[2022-12-01 22:22:43,162] Open demo page
+[2022-12-01 22:22:43,613] Get product information
+[2022-12-01 22:24:23,827] Click to Register on the header
+[2022-12-01 22:24:25,774] Select gender in checkbox
+[2022-12-01 22:24:25,986] Input valid value into Firstname text box with: Miles
+[2022-12-01 22:24:26,242] Input valid value into Lastname text box with: Stacia
+[2022-12-01 22:24:26,434] Select Date of birthday
+[2022-12-01 22:24:26,790] Select Month of birthday
+[2022-12-01 22:24:26,995] Select Year of birthday
+[2022-12-01 22:24:27,232] Input valid email to email text box with: amanda.kunze@yahoo.com
+[2022-12-01 22:24:28,015] Input valid value into password text box with: lq35cw8ly
+[2022-12-01 22:24:28,472] Input valid value into confirm password text box with: lq35cw8ly
+[2022-12-01 22:24:28,840] Click to Register button
+[2022-12-01 22:24:31,632] Click on Continue button to return to homepage
+[2022-12-01 22:24:34,921] Click to product to go to detailed page
+[2022-12-01 22:24:37,120] Get product title, SKU and price
+[2022-12-01 22:24:37,244] Click to Add to wishlist
+[2022-12-01 22:24:37,404] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:24:37,933] Click to Wishlist on the header
+[2022-12-01 22:24:39,234] Verify product is added to wishlist
+[2022-12-01 22:24:39,364] Click on Wishlist URL
+[2022-12-01 22:24:39,972] Verify user can wishlist from URL with: Wishlist of Miles Stacia
+[2022-12-01 22:24:40,151] Open demo page
+[2022-12-01 22:24:40,605] Click to Wishlist on the header
+[2022-12-01 22:24:41,075] Click to Check box of product
+[2022-12-01 22:24:41,189] Click to Add to cart
+[2022-12-01 22:24:42,678] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:24:42,727] Open demo page
+[2022-12-01 22:24:43,156] Click to product to go to detailed page
+[2022-12-01 22:24:44,196] Click to Add to wishlist
+[2022-12-01 22:24:44,298] Click to Wishlist on the header
+[2022-12-01 22:24:45,377] Click to Check box of product
+[2022-12-01 22:24:45,446] Click to remove button
+[2022-12-01 22:24:45,951] Verify empty message is displayed
+[2022-12-01 22:24:45,991] Verify product is removed
+[2022-12-01 22:24:56,027] Open demo page
+[2022-12-01 22:24:56,579] Get product information
+[2022-12-01 22:24:56,777] Click on compare button at product
+[2022-12-01 22:25:01,582] Verify message informed products are added to compare list
+[2022-12-01 22:25:02,208] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:26:27,515] Click to Register on the header
+[2022-12-01 22:26:30,058] Select gender in checkbox
+[2022-12-01 22:26:30,248] Input valid value into Firstname text box with: Juan
+[2022-12-01 22:26:30,518] Input valid value into Lastname text box with: Kristina
+[2022-12-01 22:26:30,673] Select Date of birthday
+[2022-12-01 22:26:31,095] Select Month of birthday
+[2022-12-01 22:26:31,293] Select Year of birthday
+[2022-12-01 22:26:31,531] Input valid email to email text box with: byron.brakus@hotmail.com
+[2022-12-01 22:26:31,905] Input valid value into password text box with: fhfwbw5ytfz
+[2022-12-01 22:26:33,111] Input valid value into confirm password text box with: fhfwbw5ytfz
+[2022-12-01 22:26:33,285] Click to Register button
+[2022-12-01 22:26:34,725] Click on Continue button to return to homepage
+[2022-12-01 22:26:38,110] Click to product to go to detailed page
+[2022-12-01 22:26:40,270] Get product title, SKU and price
+[2022-12-01 22:26:40,412] Click to Add to wishlist
+[2022-12-01 22:26:40,641] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:26:40,907] Click to Wishlist on the header
+[2022-12-01 22:26:42,000] Verify product is added to wishlist
+[2022-12-01 22:26:42,119] Click on Wishlist URL
+[2022-12-01 22:26:42,684] Verify user can wishlist from URL with: Wishlist of Juan Kristina
+[2022-12-01 22:26:42,867] Open demo page
+[2022-12-01 22:26:43,308] Click to Wishlist on the header
+[2022-12-01 22:26:43,808] Click to Check box of product
+[2022-12-01 22:26:43,884] Click to Add to cart
+[2022-12-01 22:26:45,061] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:26:45,112] Open demo page
+[2022-12-01 22:26:45,472] Click to product to go to detailed page
+[2022-12-01 22:26:46,492] Click to Add to wishlist
+[2022-12-01 22:26:46,587] Click to Wishlist on the header
+[2022-12-01 22:26:47,344] Click to Check box of product
+[2022-12-01 22:26:47,439] Click to remove button
+[2022-12-01 22:26:47,966] Verify empty message is displayed
+[2022-12-01 22:26:48,006] Verify product is removed
+[2022-12-01 22:26:58,065] Open demo page
+[2022-12-01 22:26:58,524] Get product information
+[2022-12-01 22:26:58,733] Click on compare button at product
+[2022-12-01 22:27:03,138] Verify message informed products are added to compare list
+[2022-12-01 22:27:03,421] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:27:04,536] Verify product information is displayed
+[2022-12-01 22:27:04,728] Click on clear list button
+[2022-12-01 22:27:05,397] Verify message: You have no items to compare
+[2022-12-01 22:27:53,720] Click to Register on the header
+[2022-12-01 22:27:55,504] Select gender in checkbox
+[2022-12-01 22:27:55,708] Input valid value into Firstname text box with: Ludie
+[2022-12-01 22:27:55,964] Input valid value into Lastname text box with: Otha
+[2022-12-01 22:27:56,130] Select Date of birthday
+[2022-12-01 22:27:56,526] Select Month of birthday
+[2022-12-01 22:27:56,715] Select Year of birthday
+[2022-12-01 22:27:56,980] Input valid email to email text box with: solange.heaney@yahoo.com
+[2022-12-01 22:27:57,978] Input valid value into password text box with: q03qwtpr
+[2022-12-01 22:27:58,135] Input valid value into confirm password text box with: q03qwtpr
+[2022-12-01 22:27:58,456] Click to Register button
+[2022-12-01 22:27:59,835] Click on Continue button to return to homepage
+[2022-12-01 22:28:03,027] Click to product to go to detailed page
+[2022-12-01 22:28:04,671] Get product title, SKU and price
+[2022-12-01 22:28:04,798] Click to Add to wishlist
+[2022-12-01 22:28:04,941] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:28:05,514] Click to Wishlist on the header
+[2022-12-01 22:28:06,597] Verify product is added to wishlist
+[2022-12-01 22:28:06,722] Click on Wishlist URL
+[2022-12-01 22:28:07,292] Verify user can wishlist from URL with: Wishlist of Ludie Otha
+[2022-12-01 22:28:07,484] Open demo page
+[2022-12-01 22:28:07,853] Click to Wishlist on the header
+[2022-12-01 22:28:08,336] Click to Check box of product
+[2022-12-01 22:28:08,441] Click to Add to cart
+[2022-12-01 22:28:09,624] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:28:09,680] Open demo page
+[2022-12-01 22:28:10,005] Click to product to go to detailed page
+[2022-12-01 22:28:10,982] Click to Add to wishlist
+[2022-12-01 22:28:11,110] Click to Wishlist on the header
+[2022-12-01 22:28:11,837] Click to Check box of product
+[2022-12-01 22:28:11,915] Click to remove button
+[2022-12-01 22:28:12,337] Verify empty message is displayed
+[2022-12-01 22:28:12,378] Verify product is removed
+[2022-12-01 22:28:22,449] Open demo page
+[2022-12-01 22:28:22,853] Get product information
+[2022-12-01 22:28:23,059] Click on compare button at product
+[2022-12-01 22:28:27,683] Verify message informed products are added to compare list
+[2022-12-01 22:28:30,022] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:28:31,325] Verify product information is displayed
+[2022-12-01 22:28:31,531] Click on clear list button
+[2022-12-01 22:28:32,689] Verify message: You have no items to compare
+[2022-12-01 22:28:32,729] Verify product image, name and price are removed
+[2022-12-01 22:30:15,436] Click to Register on the header
+[2022-12-01 22:30:17,155] Select gender in checkbox
+[2022-12-01 22:30:17,368] Input valid value into Firstname text box with: Iona
+[2022-12-01 22:30:17,628] Input valid value into Lastname text box with: Reid
+[2022-12-01 22:30:17,798] Select Date of birthday
+[2022-12-01 22:30:18,170] Select Month of birthday
+[2022-12-01 22:30:18,382] Select Year of birthday
+[2022-12-01 22:30:18,617] Input valid email to email text box with: loura.hegmann@hotmail.com
+[2022-12-01 22:30:19,307] Input valid value into password text box with: 21otoaq0lwtgwl
+[2022-12-01 22:30:19,955] Input valid value into confirm password text box with: 21otoaq0lwtgwl
+[2022-12-01 22:30:20,281] Click to Register button
+[2022-12-01 22:30:22,276] Click on Continue button to return to homepage
+[2022-12-01 22:30:25,653] Click to product to go to detailed page
+[2022-12-01 22:30:28,496] Get product title, SKU and price
+[2022-12-01 22:30:28,628] Click to Add to wishlist
+[2022-12-01 22:30:28,781] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:30:29,139] Click to Wishlist on the header
+[2022-12-01 22:30:30,570] Verify product is added to wishlist
+[2022-12-01 22:30:30,691] Click on Wishlist URL
+[2022-12-01 22:30:31,312] Verify user can wishlist from URL with: Wishlist of Iona Reid
+[2022-12-01 22:30:31,493] Open demo page
+[2022-12-01 22:30:32,215] Click to Wishlist on the header
+[2022-12-01 22:30:32,648] Click to Check box of product
+[2022-12-01 22:30:32,779] Click to Add to cart
+[2022-12-01 22:30:34,265] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:30:34,313] Open demo page
+[2022-12-01 22:30:34,727] Click to product to go to detailed page
+[2022-12-01 22:30:35,736] Click to Add to wishlist
+[2022-12-01 22:30:35,827] Click to Wishlist on the header
+[2022-12-01 22:30:36,719] Click to Check box of product
+[2022-12-01 22:30:36,788] Click to remove button
+[2022-12-01 22:30:37,211] Verify empty message is displayed
+[2022-12-01 22:30:37,249] Verify product is removed
+[2022-12-01 22:30:47,331] Open demo page
+[2022-12-01 22:30:47,773] Get product information
+[2022-12-01 22:30:47,993] Click on compare button at product
+[2022-12-01 22:30:52,231] Verify message informed products are added to compare list
+[2022-12-01 22:30:52,375] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:30:53,467] Verify product information is displayed
+[2022-12-01 22:32:26,945] Click to Register on the header
+[2022-12-01 22:32:28,650] Select gender in checkbox
+[2022-12-01 22:32:28,834] Input valid value into Firstname text box with: Stewart
+[2022-12-01 22:32:29,102] Input valid value into Lastname text box with: Margarite
+[2022-12-01 22:32:29,241] Select Date of birthday
+[2022-12-01 22:32:29,414] Select Month of birthday
+[2022-12-01 22:32:29,533] Select Year of birthday
+[2022-12-01 22:32:29,642] Input valid email to email text box with: jeanie.denesik@hotmail.com
+[2022-12-01 22:32:30,324] Input valid value into password text box with: hdp5867cqk
+[2022-12-01 22:32:31,193] Input valid value into confirm password text box with: hdp5867cqk
+[2022-12-01 22:32:31,561] Click to Register button
+[2022-12-01 22:32:33,941] Click on Continue button to return to homepage
+[2022-12-01 22:32:37,405] Click to product to go to detailed page
+[2022-12-01 22:32:39,137] Get product title, SKU and price
+[2022-12-01 22:32:39,273] Click to Add to wishlist
+[2022-12-01 22:32:39,558] Verify Success message is displayed after adding to wishlist
+[2022-12-01 22:32:39,846] Click to Wishlist on the header
+[2022-12-01 22:32:40,537] Verify product is added to wishlist
+[2022-12-01 22:32:40,647] Click on Wishlist URL
+[2022-12-01 22:32:41,240] Verify user can wishlist from URL with: Wishlist of Stewart Margarite
+[2022-12-01 22:32:41,425] Open demo page
+[2022-12-01 22:32:41,849] Click to Wishlist on the header
+[2022-12-01 22:32:42,337] Click to Check box of product
+[2022-12-01 22:32:42,416] Click to Add to cart
+[2022-12-01 22:32:43,558] Verify products Wishlist is removed and shopping cart is added
+[2022-12-01 22:32:43,610] Open demo page
+[2022-12-01 22:32:44,745] Click to product to go to detailed page
+[2022-12-01 22:32:45,973] Click to Add to wishlist
+[2022-12-01 22:32:46,071] Click to Wishlist on the header
+[2022-12-01 22:32:46,936] Click to Check box of product
+[2022-12-01 22:32:47,030] Click to remove button
+[2022-12-01 22:32:47,582] Verify empty message is displayed
+[2022-12-01 22:32:47,640] Verify product is removed
+[2022-12-01 22:32:57,666] Open demo page
+[2022-12-01 22:32:58,260] Get product information
+[2022-12-01 22:32:58,458] Click on compare button at product
+[2022-12-01 22:33:02,770] Verify message informed products are added to compare list
+[2022-12-01 22:33:03,093] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-01 22:33:04,168] Verify product information is displayed
+[2022-12-01 22:33:04,350] Click on clear list button
+[2022-12-01 22:33:05,307] Verify message: You have no items to compare
+[2022-12-01 22:33:05,343] Verify product image, name and price are removed
+[2022-12-04 18:12:36,806] Click to Register on the header
+[2022-12-04 18:12:38,231] Select gender in checkbox
+[2022-12-04 18:12:38,377] Input valid value into Firstname text box with: Bebe
+[2022-12-04 18:12:38,609] Input valid value into Lastname text box with: Kelvin
+[2022-12-04 18:12:38,768] Select Date of birthday
+[2022-12-04 18:12:39,194] Select Month of birthday
+[2022-12-04 18:12:39,395] Select Year of birthday
+[2022-12-04 18:12:39,678] Input valid email to email text box with: edelmira.crooks@gmail.com
+[2022-12-04 18:12:40,101] Input valid value into password text box with: fh9jflt70yr
+[2022-12-04 18:12:40,706] Input valid value into confirm password text box with: fh9jflt70yr
+[2022-12-04 18:12:40,810] Click to Register button
+[2022-12-04 18:12:42,462] Click on Continue button to return to homepage
+[2022-12-04 18:12:45,683] Click to product to go to detailed page
+[2022-12-04 18:12:47,759] Get product title, SKU and price
+[2022-12-04 18:12:47,923] Click to Add to wishlist
+[2022-12-04 18:12:48,055] Verify Success message is displayed after adding to wishlist
+[2022-12-04 18:12:48,415] Click to Wishlist on the header
+[2022-12-04 18:12:50,591] Verify product is added to wishlist
+[2022-12-04 18:12:50,705] Click on Wishlist URL
+[2022-12-04 18:12:51,319] Verify user can wishlist from URL with: Wishlist of Bebe Kelvin
+[2022-12-04 18:12:51,491] Open demo page
+[2022-12-04 18:12:51,935] Click to Wishlist on the header
+[2022-12-04 18:12:52,505] Click to Check box of product
+[2022-12-04 18:12:52,606] Click to Add to cart
+[2022-12-04 18:12:54,630] Verify products Wishlist is removed and shopping cart is added
+[2022-12-04 18:12:54,718] Open demo page
+[2022-12-04 18:12:55,134] Click to product to go to detailed page
+[2022-12-04 18:12:56,034] Click to Add to wishlist
+[2022-12-04 18:12:56,122] Click to Wishlist on the header
+[2022-12-04 18:12:56,962] Click to Check box of product
+[2022-12-04 18:12:57,030] Click to remove button
+[2022-12-04 18:12:57,522] Verify empty message is displayed
+[2022-12-04 18:12:57,562] Verify product is removed
+[2022-12-04 18:13:07,637] Open demo page
+[2022-12-04 18:13:08,099] Get product information
+[2022-12-04 18:13:08,293] Click on compare button at product
+[2022-12-04 18:13:12,580] Verify message informed products are added to compare list
+[2022-12-04 18:13:12,762] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-04 18:13:15,216] Verify product information is displayed
+[2022-12-04 18:13:15,425] Click on clear list button
+[2022-12-04 18:13:16,230] Verify message: You have no items to compare
+[2022-12-04 18:13:16,471] Verify product image, name and price are removed
+[2022-12-04 18:14:06,680] Open demo page
+[2022-12-04 18:14:07,708] Hover to Computers
+[2022-12-04 18:14:07,919] Click to Notebook to navigate to the page
+[2022-12-04 18:14:09,525] Click on Product name 1
+[2022-12-04 18:14:12,419] Click on Product name 2
+[2022-12-04 18:14:14,488] Click on Product name 3
+[2022-12-04 18:14:17,005] Click on Product name 4
+[2022-12-04 18:14:22,264] Click on Product name 5
+[2022-12-04 18:14:24,936] Go to Recent viewed page
+[2022-12-04 18:14:27,218] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:16:34,970] Click to Register on the header
+[2022-12-04 18:16:37,291] Select gender in checkbox
+[2022-12-04 18:16:37,471] Input valid value into Firstname text box with: Shaquita
+[2022-12-04 18:16:37,725] Input valid value into Lastname text box with: Zola
+[2022-12-04 18:16:37,871] Select Date of birthday
+[2022-12-04 18:16:38,037] Select Month of birthday
+[2022-12-04 18:16:38,126] Select Year of birthday
+[2022-12-04 18:16:38,223] Input valid email to email text box with: christin.kunze@gmail.com
+[2022-12-04 18:16:38,442] Input valid value into password text box with: n582g22ulwv1nnt
+[2022-12-04 18:16:39,479] Input valid value into confirm password text box with: n582g22ulwv1nnt
+[2022-12-04 18:16:39,748] Click to Register button
+[2022-12-04 18:16:42,297] Click on Continue button to return to homepage
+[2022-12-04 18:16:45,581] Click to product to go to detailed page
+[2022-12-04 18:16:48,078] Get product title, SKU and price
+[2022-12-04 18:16:48,207] Click to Add to wishlist
+[2022-12-04 18:16:48,355] Verify Success message is displayed after adding to wishlist
+[2022-12-04 18:16:48,791] Click to Wishlist on the header
+[2022-12-04 18:16:51,005] Verify product is added to wishlist
+[2022-12-04 18:16:51,124] Click on Wishlist URL
+[2022-12-04 18:16:51,648] Verify user can wishlist from URL with: Wishlist of Shaquita Zola
+[2022-12-04 18:16:51,824] Open demo page
+[2022-12-04 18:16:52,374] Click to Wishlist on the header
+[2022-12-04 18:16:52,824] Click to Check box of product
+[2022-12-04 18:16:52,900] Click to Add to cart
+[2022-12-04 18:16:54,422] Verify products Wishlist is removed and shopping cart is added
+[2022-12-04 18:16:54,505] Open demo page
+[2022-12-04 18:16:54,828] Click to product to go to detailed page
+[2022-12-04 18:16:55,772] Click to Add to wishlist
+[2022-12-04 18:16:55,901] Click to Wishlist on the header
+[2022-12-04 18:16:56,843] Click to Check box of product
+[2022-12-04 18:16:56,910] Click to remove button
+[2022-12-04 18:16:57,444] Verify empty message is displayed
+[2022-12-04 18:16:57,483] Verify product is removed
+[2022-12-04 18:17:07,537] Open demo page
+[2022-12-04 18:17:07,927] Get product information
+[2022-12-04 18:17:08,273] Click on compare button at product
+[2022-12-04 18:17:12,489] Verify message informed products are added to compare list
+[2022-12-04 18:17:12,529] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-04 18:17:15,133] Verify product information is displayed
+[2022-12-04 18:17:15,314] Click on clear list button
+[2022-12-04 18:17:15,973] Verify message: You have no items to compare
+[2022-12-04 18:17:16,014] Verify product image, name and price are removed
+[2022-12-04 18:18:06,223] Open demo page
+[2022-12-04 18:18:07,167] Hover to Computers
+[2022-12-04 18:18:07,392] Click to Notebook to navigate to the page
+[2022-12-04 18:18:09,282] Click on Product name 1
+[2022-12-04 18:18:11,853] Click on Product name 2
+[2022-12-04 18:18:13,216] Click on Product name 3
+[2022-12-04 18:18:15,430] Click on Product name 4
+[2022-12-04 18:18:17,646] Click on Product name 5
+[2022-12-04 18:18:19,767] Go to Recent viewed page
+[2022-12-04 18:18:21,357] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:21:42,029] Click to Register on the header
+[2022-12-04 18:21:43,775] Select gender in checkbox
+[2022-12-04 18:21:43,961] Input valid value into Firstname text box with: Chelsie
+[2022-12-04 18:21:44,222] Input valid value into Lastname text box with: Renna
+[2022-12-04 18:21:44,358] Select Date of birthday
+[2022-12-04 18:21:44,509] Select Month of birthday
+[2022-12-04 18:21:44,605] Select Year of birthday
+[2022-12-04 18:21:44,706] Input valid email to email text box with: ike.franecki@gmail.com
+[2022-12-04 18:21:44,937] Input valid value into password text box with: j7by60zhpfs
+[2022-12-04 18:21:45,772] Input valid value into confirm password text box with: j7by60zhpfs
+[2022-12-04 18:21:46,103] Click to Register button
+[2022-12-04 18:21:47,873] Click on Continue button to return to homepage
+[2022-12-04 18:21:51,116] Open demo page
+[2022-12-04 18:21:51,605] Hover to Computers
+[2022-12-04 18:21:51,803] Click to Notebook to navigate to the page
+[2022-12-04 18:21:52,628] Click on Product name 1
+[2022-12-04 18:21:55,087] Click on Product name 2
+[2022-12-04 18:21:56,720] Click on Product name 3
+[2022-12-04 18:21:58,435] Click on Product name 4
+[2022-12-04 18:21:59,954] Click on Product name 5
+[2022-12-04 18:22:01,294] Go to Recent viewed page
+[2022-12-04 18:22:02,299] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:23:55,591] Click to Register on the header
+[2022-12-04 18:23:59,075] Select gender in checkbox
+[2022-12-04 18:23:59,267] Input valid value into Firstname text box with: Dan
+[2022-12-04 18:23:59,513] Input valid value into Lastname text box with: Jeramy
+[2022-12-04 18:23:59,668] Select Date of birthday
+[2022-12-04 18:23:59,988] Select Month of birthday
+[2022-12-04 18:24:00,223] Select Year of birthday
+[2022-12-04 18:24:00,468] Input valid email to email text box with: christopher.gibson@yahoo.com
+[2022-12-04 18:24:01,277] Input valid value into password text box with: bxhgxxx5ba
+[2022-12-04 18:24:01,595] Input valid value into confirm password text box with: bxhgxxx5ba
+[2022-12-04 18:24:01,703] Click to Register button
+[2022-12-04 18:24:04,509] Click on Continue button to return to homepage
+[2022-12-04 18:24:07,713] Open demo page
+[2022-12-04 18:24:08,215] Hover to Computers
+[2022-12-04 18:24:08,418] Click to Notebook to navigate to the page
+[2022-12-04 18:24:10,936] Click on Product name 1
+[2022-12-04 18:24:13,833] Click on Product name 2
+[2022-12-04 18:24:15,371] Click on Product name 3
+[2022-12-04 18:24:16,835] Click on Product name 4
+[2022-12-04 18:24:18,217] Click on Product name 5
+[2022-12-04 18:24:19,611] Go to Recent viewed page
+[2022-12-04 18:24:20,763] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:25:47,534] Click to Register on the header
+[2022-12-04 18:25:49,883] Select gender in checkbox
+[2022-12-04 18:25:50,071] Input valid value into Firstname text box with: Mei
+[2022-12-04 18:25:50,310] Input valid value into Lastname text box with: Cheryl
+[2022-12-04 18:25:50,454] Select Date of birthday
+[2022-12-04 18:25:50,860] Select Month of birthday
+[2022-12-04 18:25:51,091] Select Year of birthday
+[2022-12-04 18:25:51,353] Input valid email to email text box with: josue.wolf@gmail.com
+[2022-12-04 18:25:52,095] Input valid value into password text box with: b72injph
+[2022-12-04 18:25:52,240] Input valid value into confirm password text box with: b72injph
+[2022-12-04 18:25:52,507] Click to Register button
+[2022-12-04 18:25:54,213] Click on Continue button to return to homepage
+[2022-12-04 18:25:57,312] Open demo page
+[2022-12-04 18:25:57,802] Hover to Computers
+[2022-12-04 18:25:57,994] Click to Notebook to navigate to the page
+[2022-12-04 18:25:59,009] Click on Product name 1
+[2022-12-04 18:26:01,400] Click on Product name 2
+[2022-12-04 18:26:02,860] Click on Product name 3
+[2022-12-04 18:26:04,442] Click on Product name 4
+[2022-12-04 18:26:05,983] Click on Product name 5
+[2022-12-04 18:26:07,613] Go to Recent viewed page
+[2022-12-04 18:26:09,282] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:28:22,160] Click to Register on the header
+[2022-12-04 18:28:24,511] Select gender in checkbox
+[2022-12-04 18:28:24,679] Input valid value into Firstname text box with: Quintin
+[2022-12-04 18:28:24,916] Input valid value into Lastname text box with: Albertha
+[2022-12-04 18:28:25,055] Select Date of birthday
+[2022-12-04 18:28:25,212] Select Month of birthday
+[2022-12-04 18:28:25,310] Select Year of birthday
+[2022-12-04 18:28:25,410] Input valid email to email text box with: wilbur.lebsack@hotmail.com
+[2022-12-04 18:28:25,954] Input valid value into password text box with: o0u6ue1aei2n
+[2022-12-04 18:28:26,663] Input valid value into confirm password text box with: o0u6ue1aei2n
+[2022-12-04 18:28:26,949] Click to Register button
+[2022-12-04 18:28:29,787] Click on Continue button to return to homepage
+[2022-12-04 18:28:33,069] Open demo page
+[2022-12-04 18:28:33,532] Hover to Computers
+[2022-12-04 18:28:33,743] Click to Notebook to navigate to the page
+[2022-12-04 18:28:34,783] Click on Product name 1
+[2022-12-04 18:28:37,631] Click on Product name 2
+[2022-12-04 18:28:39,721] Click on Product name 3
+[2022-12-04 18:28:41,130] Click on Product name 4
+[2022-12-04 18:28:43,086] Click on Product name 5
+[2022-12-04 18:28:45,414] Go to Recent viewed page
+[2022-12-04 18:28:47,808] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:30:03,186] Click to Register on the header
+[2022-12-04 18:30:05,128] Select gender in checkbox
+[2022-12-04 18:30:05,307] Input valid value into Firstname text box with: Nobuko
+[2022-12-04 18:30:05,546] Input valid value into Lastname text box with: Brice
+[2022-12-04 18:30:05,691] Select Date of birthday
+[2022-12-04 18:30:05,843] Select Month of birthday
+[2022-12-04 18:30:05,932] Select Year of birthday
+[2022-12-04 18:30:06,034] Input valid email to email text box with: salome.effertz@yahoo.com
+[2022-12-04 18:30:06,579] Input valid value into password text box with: k61rtter6
+[2022-12-04 18:30:07,171] Input valid value into confirm password text box with: k61rtter6
+[2022-12-04 18:30:07,443] Click to Register button
+[2022-12-04 18:30:09,342] Click on Continue button to return to homepage
+[2022-12-04 18:30:12,431] Open demo page
+[2022-12-04 18:30:12,921] Hover to Computers
+[2022-12-04 18:30:13,150] Click to Notebook to navigate to the page
+[2022-12-04 18:30:14,350] Click on Product name 1
+[2022-12-04 18:30:16,638] Click on Product name 2
+[2022-12-04 18:30:18,134] Click on Product name 3
+[2022-12-04 18:30:19,440] Click on Product name 4
+[2022-12-04 18:30:20,784] Click on Product name 5
+[2022-12-04 18:30:22,157] Go to Recent viewed page
+[2022-12-04 18:30:23,182] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:31:50,499] Click to Register on the header
+[2022-12-04 18:31:53,884] Select gender in checkbox
+[2022-12-04 18:31:54,050] Input valid value into Firstname text box with: Deedee
+[2022-12-04 18:31:54,288] Input valid value into Lastname text box with: Shenita
+[2022-12-04 18:31:54,441] Select Date of birthday
+[2022-12-04 18:31:54,591] Select Month of birthday
+[2022-12-04 18:31:54,683] Select Year of birthday
+[2022-12-04 18:31:54,789] Input valid email to email text box with: dan.lubowitz@yahoo.com
+[2022-12-04 18:31:55,144] Input valid value into password text box with: a6szhnwqc8my2s
+[2022-12-04 18:31:55,881] Input valid value into confirm password text box with: a6szhnwqc8my2s
+[2022-12-04 18:31:56,158] Click to Register button
+[2022-12-04 18:31:58,745] Click on Continue button to return to homepage
+[2022-12-04 18:32:01,918] Open demo page
+[2022-12-04 18:32:02,433] Hover to Computers
+[2022-12-04 18:32:02,665] Click to Notebook to navigate to the page
+[2022-12-04 18:32:03,899] Click on Product name 1
+[2022-12-04 18:32:06,161] Click on Product name 2
+[2022-12-04 18:32:07,611] Click on Product name 3
+[2022-12-04 18:32:08,928] Click on Product name 4
+[2022-12-04 18:32:10,205] Click on Product name 5
+[2022-12-04 18:32:11,575] Go to Recent viewed page
+[2022-12-04 18:32:12,373] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:33:46,305] Click to Register on the header
+[2022-12-04 18:33:48,028] Select gender in checkbox
+[2022-12-04 18:33:48,180] Input valid value into Firstname text box with: Calista
+[2022-12-04 18:33:48,410] Input valid value into Lastname text box with: Terrance
+[2022-12-04 18:33:48,549] Select Date of birthday
+[2022-12-04 18:33:48,719] Select Month of birthday
+[2022-12-04 18:33:48,809] Select Year of birthday
+[2022-12-04 18:33:48,909] Input valid email to email text box with: gabriele.jast@gmail.com
+[2022-12-04 18:33:49,159] Input valid value into password text box with: 350nfx96t
+[2022-12-04 18:33:50,087] Input valid value into confirm password text box with: 350nfx96t
+[2022-12-04 18:33:50,366] Click to Register button
+[2022-12-04 18:33:52,607] Click on Continue button to return to homepage
+[2022-12-04 18:33:55,662] Open demo page
+[2022-12-04 18:33:56,077] Hover to Computers
+[2022-12-04 18:33:56,283] Click to Notebook to navigate to the page
+[2022-12-04 18:33:57,531] Click on Product name 1
+[2022-12-04 18:33:59,803] Click on Product name 2
+[2022-12-04 18:34:01,305] Click on Product name 3
+[2022-12-04 18:34:02,740] Click on Product name 4
+[2022-12-04 18:34:04,112] Click on Product name 5
+[2022-12-04 18:34:05,584] Go to Recent viewed page
+[2022-12-04 18:34:06,741] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:36:54,910] Click to Register on the header
+[2022-12-04 18:36:56,546] Select gender in checkbox
+[2022-12-04 18:36:56,727] Input valid value into Firstname text box with: Keneth
+[2022-12-04 18:36:56,979] Input valid value into Lastname text box with: Donita
+[2022-12-04 18:36:57,117] Select Date of birthday
+[2022-12-04 18:36:57,268] Select Month of birthday
+[2022-12-04 18:36:57,364] Select Year of birthday
+[2022-12-04 18:36:57,470] Input valid email to email text box with: gaylord.collier@gmail.com
+[2022-12-04 18:36:58,084] Input valid value into password text box with: 21o7nfxhwmi
+[2022-12-04 18:36:58,735] Input valid value into confirm password text box with: 21o7nfxhwmi
+[2022-12-04 18:36:58,972] Click to Register button
+[2022-12-04 18:37:00,752] Click on Continue button to return to homepage
+[2022-12-04 18:37:03,994] Open demo page
+[2022-12-04 18:37:04,400] Hover to Computers
+[2022-12-04 18:37:04,611] Click to Notebook to navigate to the page
+[2022-12-04 18:37:05,537] Click on Product name 1
+[2022-12-04 18:37:09,169] Click on Product name 2
+[2022-12-04 18:37:10,792] Click on Product name 3
+[2022-12-04 18:37:12,203] Click on Product name 4
+[2022-12-04 18:37:13,592] Click on Product name 5
+[2022-12-04 18:37:15,255] Go to Recent viewed page
+[2022-12-04 18:37:16,388] Verify only 3 recently viewed products are displayed
+[2022-12-04 18:40:54,583] Click to Register on the header
+[2022-12-04 18:40:57,210] Select gender in checkbox
+[2022-12-04 18:40:57,408] Input valid value into Firstname text box with: Leopoldo
+[2022-12-04 18:40:57,680] Input valid value into Lastname text box with: Janyce
+[2022-12-04 18:40:57,819] Select Date of birthday
+[2022-12-04 18:40:57,961] Select Month of birthday
+[2022-12-04 18:40:58,056] Select Year of birthday
+[2022-12-04 18:40:58,152] Input valid email to email text box with: shon.wuckert@gmail.com
+[2022-12-04 18:40:58,732] Input valid value into password text box with: v5xfss87
+[2022-12-04 18:40:59,361] Input valid value into confirm password text box with: v5xfss87
+[2022-12-04 18:40:59,632] Click to Register button
+[2022-12-04 18:41:01,799] Click on Continue button to return to homepage
+[2022-12-04 18:41:05,020] Click to product to go to detailed page
+[2022-12-04 18:41:07,138] Get product title, SKU and price
+[2022-12-04 18:41:07,272] Click to Add to wishlist
+[2022-12-04 18:41:07,409] Verify Success message is displayed after adding to wishlist
+[2022-12-04 18:41:07,770] Click to Wishlist on the header
+[2022-12-04 18:41:10,575] Verify product is added to wishlist
+[2022-12-04 18:41:10,694] Click on Wishlist URL
+[2022-12-04 18:41:11,223] Verify user can wishlist from URL with: Wishlist of Leopoldo Janyce
+[2022-12-04 18:41:11,387] Open demo page
+[2022-12-04 18:41:11,854] Click to Wishlist on the header
+[2022-12-04 18:41:12,280] Click to Check box of product
+[2022-12-04 18:41:12,410] Click to Add to cart
+[2022-12-04 18:41:13,992] Verify products Wishlist is removed and shopping cart is added
+[2022-12-04 18:41:14,073] Open demo page
+[2022-12-04 18:41:14,458] Click to product to go to detailed page
+[2022-12-04 18:41:15,414] Click to Add to wishlist
+[2022-12-04 18:41:15,536] Click to Wishlist on the header
+[2022-12-04 18:41:16,479] Click to Check box of product
+[2022-12-04 18:41:16,547] Click to remove button
+[2022-12-04 18:41:17,067] Verify empty message is displayed
+[2022-12-04 18:41:17,107] Verify product is removed
+[2022-12-04 18:41:27,157] Open demo page
+[2022-12-04 18:41:27,596] Get product information
+[2022-12-04 18:41:27,792] Click on compare button at product
+[2022-12-04 18:41:32,028] Verify message informed products are added to compare list
+[2022-12-04 18:41:32,758] Go to Compare list page by clicking on product comparison hyperlink
+[2022-12-04 18:41:34,960] Verify product information is displayed
+[2022-12-04 18:41:35,144] Click on clear list button
+[2022-12-04 18:41:36,141] Verify message: You have no items to compare
+[2022-12-04 18:41:36,179] Verify product image, name and price are removed
+[2022-12-04 18:42:26,455] Open demo page
+[2022-12-04 18:42:27,243] Hover to Computers
+[2022-12-04 18:42:27,476] Click to Notebook to navigate to the page
+[2022-12-04 18:42:29,318] Click on Product name 1
+[2022-12-04 18:42:30,997] Click on Product name 2
+[2022-12-04 18:42:32,336] Click on Product name 3
+[2022-12-04 18:42:33,753] Click on Product name 4
+[2022-12-04 18:42:35,062] Click on Product name 5
+[2022-12-04 18:42:36,539] Go to Recent viewed page
+[2022-12-04 18:42:37,830] Verify only 3 recently viewed products are displayed
+[2023-02-06 22:40:17,827] Click to Register on the header
+[2023-02-06 22:40:19,440] Select gender in checkbox
+[2023-02-06 22:40:19,764] Input valid value into Firstname text box with: Vince
+[2023-02-06 22:40:20,000] Input valid value into Lastname text box with: Danielle
+[2023-02-06 22:40:20,164] Select Date of birthday
+[2023-02-06 22:40:20,327] Select Month of birthday
+[2023-02-06 22:40:20,421] Select Year of birthday
+[2023-02-06 22:40:20,516] Input valid email to email text box with: reva.quigley@yahoo.com
+[2023-02-06 22:40:20,621] Input valid value into password text box with: c2upe96k
+[2023-02-06 22:40:21,070] Input valid value into confirm password text box with: c2upe96k
+[2023-02-06 22:40:21,393] Click to Register button
+[2023-02-06 22:40:23,702] Click on Continue button to return to homepage
+[2023-02-06 22:40:27,680] Click to product to go to detailed page
+[2023-02-06 22:40:31,317] Get product title, SKU and price
+[2023-02-06 22:40:31,637] Click to Add to wishlist
+[2023-02-06 22:40:31,819] Verify Success message is displayed after adding to wishlist
+[2023-02-06 22:40:32,298] Click to Wishlist on the header
+[2023-02-06 22:40:33,702] Verify product is added to wishlist
+[2023-02-06 22:40:33,851] Click on Wishlist URL
+[2023-02-06 22:40:34,366] Verify user can wishlist from URL with: Wishlist of Vince Danielle
+[2023-02-06 22:40:35,401] Open demo page
+[2023-02-06 22:40:35,874] Click to Wishlist on the header
+[2023-02-06 22:40:36,277] Click to Check box of product
+[2023-02-06 22:40:36,372] Click to Add to cart
+[2023-02-06 22:40:38,417] Verify products Wishlist is removed and shopping cart is added
+[2023-02-06 22:40:38,493] Open demo page
+[2023-02-06 22:40:40,754] Click to product to go to detailed page
+[2023-02-06 22:40:42,143] Click to Add to wishlist
+[2023-02-06 22:40:42,314] Click to Wishlist on the header
+[2023-02-06 22:40:43,256] Click to Check box of product
+[2023-02-06 22:40:43,352] Click to remove button
+[2023-02-06 22:40:43,790] Verify empty message is displayed
+[2023-02-06 22:40:43,878] Verify product is removed
+[2023-02-06 22:40:53,953] Open demo page
+[2023-02-06 22:40:54,415] Get product information
+[2023-02-06 22:40:54,606] Click on compare button at product
+[2023-02-06 22:40:58,894] Verify message informed products are added to compare list
+[2023-02-06 22:40:59,310] Go to Compare list page by clicking on product comparison hyperlink
+[2023-02-06 22:41:00,908] Verify product information is displayed
+[2023-02-06 22:41:01,112] Click on clear list button
+[2023-02-06 22:41:02,030] Verify message: You have no items to compare
+[2023-02-06 22:41:02,084] Verify product image, name and price are removed
+[2023-02-06 22:41:52,304] Open demo page
+[2023-02-06 22:41:53,511] Hover to Computers
+[2023-02-06 22:41:56,392] Click to Notebook to navigate to the page
+[2023-02-06 22:41:58,036] Click on Product name 1
+[2023-02-06 22:42:01,452] Click on Product name 2
+[2023-02-06 22:42:04,282] Click on Product name 3
+[2023-02-06 22:42:07,434] Click on Product name 4
+[2023-02-06 22:42:11,137] Click on Product name 5
+[2023-02-06 22:42:13,732] Go to Recent viewed page
+[2023-02-06 22:42:14,331] Verify only 3 recently viewed products are displayed
+[2023-02-07 21:23:50,933] Click to Register on the header
+[2023-02-07 21:23:52,923] Select gender in checkbox
+[2023-02-07 21:23:53,174] Input valid value into Firstname text box with: Teodoro
+[2023-02-07 21:23:53,434] Input valid value into Lastname text box with: Cherrie
+[2023-02-07 21:23:53,603] Select Date of birthday
+[2023-02-07 21:23:53,817] Select Month of birthday
+[2023-02-07 21:23:53,914] Select Year of birthday
+[2023-02-07 21:23:54,028] Input valid email to email text box with: khalilah.stark@hotmail.com
+[2023-02-07 21:23:54,132] Input valid value into password text box with: 4kzvxg5debgo
+[2023-02-07 21:23:54,632] Input valid value into confirm password text box with: 4kzvxg5debgo
+[2023-02-07 21:23:54,977] Click to Register button
+[2023-02-07 21:23:58,023] Click on Continue button to return to homepage
+[2023-02-07 21:24:02,396] Click to product to go to detailed page
+[2023-02-07 21:24:06,660] Get product title, SKU and price
+[2023-02-07 21:24:06,833] Click to Add to wishlist
+[2023-02-07 21:24:07,175] Verify Success message is displayed after adding to wishlist
+[2023-02-07 21:24:07,793] Click to Wishlist on the header
+[2023-02-07 21:24:09,321] Verify product is added to wishlist
+[2023-02-07 21:24:09,449] Click on Wishlist URL
+[2023-02-07 21:24:10,058] Verify user can wishlist from URL with: Wishlist of Teodoro Cherrie
+[2023-02-07 21:24:10,573] Open demo page
+[2023-02-07 21:24:11,143] Click to Wishlist on the header
+[2023-02-07 21:24:11,836] Click to Check box of product
+[2023-02-07 21:24:11,907] Click to Add to cart
+[2023-02-07 21:24:13,164] Verify products Wishlist is removed and shopping cart is added
+[2023-02-07 21:24:13,245] Open demo page
+[2023-02-07 21:24:13,970] Click to product to go to detailed page
+[2023-02-07 21:24:15,231] Click to Add to wishlist
+[2023-02-07 21:24:15,333] Click to Wishlist on the header
+[2023-02-07 21:24:16,396] Click to Check box of product
+[2023-02-07 21:24:16,517] Click to remove button
+[2023-02-07 21:24:17,136] Verify empty message is displayed
+[2023-02-07 21:24:17,326] Verify product is removed
+[2023-02-07 21:24:27,375] Open demo page
+[2023-02-07 21:24:27,898] Get product information
+[2023-02-07 21:24:28,094] Click on compare button at product
+[2023-02-07 21:24:32,370] Verify message informed products are added to compare list
+[2023-02-07 21:24:32,438] Go to Compare list page by clicking on product comparison hyperlink
+[2023-02-07 21:24:33,833] Verify product information is displayed
+[2023-02-07 21:24:34,029] Click on clear list button
+[2023-02-07 21:24:35,005] Verify message: You have no items to compare
+[2023-02-07 21:24:35,312] Verify product image, name and price are removed
+[2023-02-07 21:25:25,623] Open demo page
+[2023-02-07 21:25:26,928] Hover to Computers
+[2023-02-07 21:25:27,177] Click to Notebook to navigate to the page
+[2023-02-07 21:25:28,836] Click on Product name 1
+[2023-02-07 21:25:32,125] Click on Product name 2
+[2023-02-07 21:25:34,530] Click on Product name 3
+[2023-02-07 21:25:37,497] Click on Product name 4
+[2023-02-07 21:25:40,065] Click on Product name 5
+[2023-02-07 21:25:43,107] Go to Recent viewed page
+[2023-02-07 21:25:43,775] Verify only 3 recently viewed products are displayed

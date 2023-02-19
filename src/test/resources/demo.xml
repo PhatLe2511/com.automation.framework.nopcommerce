@@ -9,7 +9,7 @@
 
   	
   	<test name="RUN ON CHROME">
-    		<parameter name ="Browser" value ="chrome" />
+    		<parameter name ="Browser" value ="firefox" />
     		<parameter name ="env" value ="demo"/>
      	<classes>
 
@@ -19,8 +19,11 @@
                  <class name="com.nopcommerce.user.NopCommerce_Register"/>
                  <class name="com.nopcommerce.user.NopCommerce_Search"/>
                  <class name="com.nopcommerce.user.Nopcommerce_Sort_Display_Paging"/>
+                 <class name="com.nopcommerce.user.NopCommerce_Order"/>
+                 <class name="com.nopcommerce.user.NopCommerce_Wishlist_Compare"/>
                   -->
-			<class name="com.nopcommerce.user.NopCommerce_Wishlist_Compare"/>
+
+			<class name="com.nopcommerce.user.NopCommerce_Order"/>
 
         </classes>
       </test>
